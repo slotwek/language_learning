@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.un~
+*.*~
+*.swp
+*.mp4
+*.mp3
+*.m4v
+*.m4a
+*.exe
