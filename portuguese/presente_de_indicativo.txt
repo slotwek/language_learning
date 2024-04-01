@@ -1,0 +1,66 @@
+{{c1::eu falo::01 falar}} três idiomas diferentes.</br> I speak three different languages.
+{{c1::tu falas::02 falar}} com sotaque nativo.</br> You speak with a native accent.
+{{c1::ele fala::03m falar}} sobre cultura e tradições do seu país.</br> He talks about culture and traditions of his country.
+{{c1::nós falamos::11 falar}} com pessoas de todo o mundo online.</br> We speak with people from all over the world online.
+{{c1::vós falais::12 falar}} tão bem que parecem nativos.</br> You speak so well that you sound like natives.
+{{c1::eles falam::13m falar}} sobre suas experiências de viagem.</br> They talk about their travel experiences.
+{{c1::eu como::01 comer}} sushi todas as sextas-feiras.</br>I eat sushi every Friday.
+{{c1::tu comes::02 comer}} frutas exóticas que descobriste durante as tuas viagens.</br>You eat exotic fruits that you discovered during your travels.
+{{c1::ela come::ele/03f comer}} chocolate quando está triste.</br>He/She eats chocolate when he/she is sad.
+{{c1::nós comemos::11 comer}} em restaurantes diferentes todas as semanas para experimentar novos sabores.</br>We eat at different restaurants every week to try new flavors.
+{{c1::vós comeis::12 comer}} pratos típicos da região sempre que viajais.</br>You (plural) eat local dishes whenever you travel.
+{{c1::eles comem::13m comer}} um grande almoço em família aos domingos.</br>They eat a big family lunch on Sundays.
+{{c1::eu abro::01 abrir}} a janela todas as manhãs para deixar entrar a luz do sol.</br>I open the window every morning to let the sunlight in.
+{{c1::tu abres::02 abrir}} os livros com entusiasmo antes de estudar.</br>You open books eagerly before studying.
+{{c1::ela abre::ele/03f abrir}} sempre novas oportunidades com sua determinação e trabalho árduo.</br>He/She always opens up new opportunities with his/her determination and hard work.
+{{c1::nós abrimos::11 abrir}} nossos corações para receber novas amizades em nossa comunidade.</br>We open our hearts to welcome new friendships into our community.
+{{c1::vós abris::12 abrir}} a porta da esperança para um futuro melhor através da educação.</br>You (plural) open the door of hope for a better future through education.
+{{c1::eles abrem::eles abrir}} seus horizontes ao explorar diferentes culturas e tradições.</br>They open their horizons by exploring different cultures and traditions.
+{{c1::eu leio::01 ler}} um livro emocionante todas as noites.</br>I read an exciting book every night.
+{{c1::tu lês::02 ler}} o jornal todas as manhãs?</br>Do you read the newspaper every morning?
+{{c1::ele lê::03m ler}} poesia para relaxar depois do trabalho.</br>He reads poetry to relax after work.
+{{c1::nós lemos::11 ler}} romances juntos aos domingos.</br>We read novels together on Sundays.
+{{c1::vós ledes::12 ler}} revistas de moda para praticar o vocabulário em português.</br>You (plural) read fashion magazines to practice Portuguese vocabulary.
+{{c1::eles leem::13m ler}} artigos científicos para aprender coisas novas.</br>They read scientific articles to learn new things.
+{{c1::eu faço::01 fazer}} bolos deliciosos aos fins de semana.</br>I make delicious cakes on weekends.
+{{c1::tu fazes::02 fazer}} exercícios de gramática todos os dias.</br>You do grammar exercises every day.
+{{c1::ele faz::03m fazer}} uma viagem para um país diferente todos os anos.</br>He takes a trip to a different country every year.
+{{c1::nós fazemos::11 fazer}} uma festa surpresa para nosso amigo no próximo mês.</br>We're throwing a surprise party for our friend next month.
+{{c1::vós fazeis::12 fazer}} artesanato nas horas vagas.</br>You (plural) do crafts in your free time.
+{{c1::eles fazem::13m fazer}} um piquenique no parque aos domingos.</br>They have a picnic in the park on Sundays.
+{{c1::eu vou::01 ir}} ao cinema com meus amigos hoje à noite.</br>I am going to the movies with my friends tonight.
+{{c1::tu vais::02 ir}} viajar para o Brasil no próximo verão.</br>You are going to travel to Brazil next summer.
+{{c1::ele vai::03m ir}} estudar música no conservatório.</br>He is going to study music at the conservatory.
+{{c1::nós vamos::11 ir}} visitar as belas praias do Algarve no fim de semana.</br>We are going to visit the beautiful beaches of the Algarve this weekend.
+{{c1::vós ides::12 ir}} explorar os monumentos históricos desta cidade antiga.</br>You (plural) are going to explore the historical monuments of this ancient city.
+{{c1::eles vão::13m ir}} participar de um curso de culinária tradicional portuguesa.</br>They are going to take part in a traditional Portuguese cooking course.
+{{c1::eu venho::01 vir}} sempre à biblioteca para estudar.</br>I come to the library to study regularly.
+{{c1::tu vens::02 vir}} comigo ao concerto de música clássica?</br>Are you coming with me to the classical music concert?
+{{c1::ele vem::03m vir}} de uma pequena cidade no interior do Brasil.</br>He comes from a small town in the interior of Brazil.
+{{c1::nós vimos::11 vir}} para esta cidade para aprender mais sobre sua cultura.</br>We come to this city to learn more about its culture.
+{{c1::vós vindes::12 vir}} jantar na minha casa hoje à noite?</br>Are you (plural) coming to dinner at my house tonight?
+{{c1::eles vêm::13m vir}} de diferentes partes do mundo para estudar nesta universidade.</br>They come from different parts of the world to study at this university.
+{{c1::eu vejo::01 ver}} pássaros coloridos no parque todos os dias.</br>I see colorful birds in the park every day.
+{{c1::tu vês::02 ver}} belas paisagens quando viajas para o campo.</br>You see beautiful landscapes when you travel to the countryside.
+{{c1::ela vê::03f ver}} o pôr do sol na praia e fica maravilhado.</br>He/She sees the sunset at the beach and is amazed.
+{{c1::nós vemos::11 ver}} estrelas cadentes durante a noite de verão.</br>We see shooting stars during the summer nights.
+{{c1::vós vedes::12 ver}} filmes clássicos para aprender mais sobre a cultura do país.</br>You (plural) watch classic movies to learn more about the country's culture.
+{{c1::elas veem::13f ver}} obras de arte famosas no museu e se inspiram.</br>They see famous artworks in the museum and get inspired.
+{{c1::eu dou::01 dar}} presentes aos meus amigos todos os anos.</br>I give presents to my friends every year.
+{{c1::tu dás::02 dar}} conselhos úteis para quem está aprendendo uma nova língua.</br>You give helpful advice to those who are learning a new language.
+{{c1::ele dá::03m dar}} o seu tempo para ajudar os outros a melhorar as suas habilidades linguísticas.</br>He gives his time to help others improve their language skills.
+{{c1::nós damos::11 dar}} boas-vindas calorosas a todos os novos alunos na nossa escola de idiomas.</br>We give warm welcomes to all new students at our language school.
+{{c1::vós dais::12 dar}} sugestões interessantes sobre como praticar e aprimorar o vocabulário.</br>You (plural) give interesting suggestions on how to practice and enhance vocabulary.
+{{c1::eles dão::13m dar}} feedback construtivo para ajudar os colegas de classe a progredir mais rapidamente.</br>They give constructive feedback to help classmates progress more quickly.
+{{c1::eu posso::01 poder}} aprender um novo idioma em seis meses.</br>I can learn a new language in six months.
+{{c1::tu podes::02 poder}} viajar pelo mundo se aprenderes várias línguas.</br>You can travel the world if you learn several languages.
+{{c1::ele pode::03m poder}} tornar-se fluente em espanhol com dedicação.</br>He can become fluent in Spanish with dedication.
+{{c1::nós podemos::11 poder}} comunicar-nos com pessoas de diferentes culturas.</br>We can communicate with people from different cultures.
+{{c1::vós podeis::12 poder}} experimentar novas comidas quando visitardes países estrangeiros.</br>You (plural) can try new foods when you visit foreign countries.
+{{c1::eles podem::13m poder}} desenvolver amizades em todo o mundo ao dominar mais de um idioma.</br>They can develop friendships worldwide by mastering more than one language.
+{{c1::eu quero::01 querer}} aprender a tocar violão este ano.</br>I want to learn how to play the guitar this year.
+{{c1::tu queres::02 querer}} viajar pelo mundo e conhecer novas culturas.</br>You want to travel the world and experience new cultures.
+{{c1::ele quer::03m querer}} se tornar um poliglota para poder se comunicar com pessoas de diferentes países.</br>He wants to become a polyglot so he can communicate with people from different countries.
+{{c1::nós queremos::11 querer}} visitar as praias paradisíacas do Brasil nas próximas férias.</br>We want to visit the paradise beaches of Brazil next vacation.
+{{c1::vós quereis::12 querer}} experimentar a culinária típica portuguesa durante a vossa estadia em Lisboa.</br>You want to try typical Portuguese cuisine during your stay in Lisbon.
+{{c1::eles querem::13m querer}} aprender português para poderem assistir filmes brasileiros sem legendas.</br>They want to learn Portuguese so they can watch Brazilian movies without subtitles.
