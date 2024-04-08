@@ -1,0 +1,8 @@
+{{c1::Eu falo::Eu - falar}} inglês fluentemente.</br>I speak English fluently.
+{{c1::Tu falas::Tu - falar}} com muita clareza. </br>You speak very clearly.
+{{c1::Ele fala::Ele - falar}} três idiomas diferentes. </br>He speaks three different languages.
+{{c1::Nós falamos::Nós - falar}} com nossos colegas todos os dias. </br>We speak with our colleagues every day.
+{{c1::Vós falais::Vós - falar}} rapidamente. </br>You (plural, informal) speak quickly.
+{{c1::Eles falam::Eles - falar}} sobre política frequentemente. </br>They speak about politics often.
+{{c1::Você fala::Você - falar}} português muito bem. </br>You speak Portuguese very well.
+{{c1::Elas falam::Elas - falar}} com entusiasmo sobre seus projetos. </br>They (feminine) speak with enthusiasm about their projects.
