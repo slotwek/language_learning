@@ -4,8 +4,8 @@
 
 
 
-ESTERI
-Arrestati leader del cartello messicano Sinaloa
+# ESTERI
+## Arrestati leader del cartello messicano Sinaloa
 Dopo diversi mesi di ricerche
 da parte delle autorità statunitensi
 sono stati arrestati a El Paso,
