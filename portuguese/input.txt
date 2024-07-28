@@ -1,8 +1,13 @@
-{{c1::Eu falo::Eu - falar}} inglês fluentemente.</br>I speak English fluently.
-{{c1::Tu falas::Tu - falar}} com muita clareza. </br>You speak very clearly.
-{{c1::Ele fala::Ele - falar}} três idiomas diferentes. </br>He speaks three different languages.
-{{c1::Nós falamos::Nós - falar}} com nossos colegas todos os dias. </br>We speak with our colleagues every day.
-{{c1::Vós falais::Vós - falar}} rapidamente. </br>You (plural, informal) speak quickly.
-{{c1::Eles falam::Eles - falar}} sobre política frequentemente. </br>They speak about politics often.
-{{c1::Você fala::Você - falar}} português muito bem. </br>You speak Portuguese very well.
-{{c1::Elas falam::Elas - falar}} com entusiasmo sobre seus projetos. </br>They (feminine) speak with enthusiasm about their projects.
+Entendido! Aqui estão algumas frases com o verbo "querer":
+
+1. {{c1::Eu quero::eu - querer}} aprender a tocar violão este ano.</br>I want to learn how to play the guitar this year.
+  
+2. {{c1::Tu queres::tu - querer}} viajar pelo mundo e conhecer novas culturas.</br>You want to travel the world and experience new cultures.
+
+3. {{c1::Ele quer::ele - querer}} se tornar um poliglota para poder se comunicar com pessoas de diferentes países.</br>He wants to become a polyglot so he can communicate with people from different countries.
+
+4. {{c1::Nós queremos::nós - querer}} visitar as praias paradisíacas do Brasil nas próximas férias.</br>We want to visit the paradise beaches of Brazil next vacation.
+
+5. {{c1::Vós quereis::vós - querer}} experimentar a culinária típica portuguesa durante a vossa estadia em Lisboa.</br>You want to try typical Portuguese cuisine during your stay in Lisbon.
+
+6. {{c1::Eles querem::eles - querer}} aprender português para poderem assistir filmes brasileiros sem legendas.</br>They want to learn Portuguese so they can watch Brazilian movies without subtitles.
