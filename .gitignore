@@ -9,6 +9,5 @@
 *.exe
 *.webm
 *.vtt
-*.txt
 downloaded.txt
 .obsidian/workspace.json
