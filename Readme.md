@@ -7,4 +7,6 @@
 - get_all_days_with_articles_get_archive.ipynb - download all articles and mp3 files from `start_date` to `present`
 #### Bash
 - sort_files.sh - to move files into folder structure  `yyyy/mm/file.txt`
+- `transcripts_for_LearnAmo.sh`
+	- dedicated script to extract vtt transcript and convert them to pure text form
 # Portuguese
