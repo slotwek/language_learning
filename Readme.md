@@ -1,6 +1,15 @@
 # Bash
+## bash / YT_LearnAmo  (*Italian*)
 - `transcripts_for_LearnAmo.sh`
-	- dedicated script to extract vtt transcript and convert them to pure text form
+	- dedicated script to extract vtt transcripts from youtube playlist / channel
+		- from videos, which are at least 10 minutes long
+- `convert_vtt_into_text.sh`
+	- converts vtt into txt files 
+		- know issues:
+			- sometimes files contain rubbish text - currently it's kept there as it is
+			```text
+			Ciao<00:00:00.280><c> a</c><00:00:00.399><c> tutti</c><00:00:00.599><c> e</c><00:00:00.960><c> bentornati</c><00:00:01.360><c> su</c><00:00:02.000><c> lamo</c><00:00:02.639><c> sei</c><00:00:03.000><c> in</c>
+```
 	- Improvements:
 		- make it to download as playlist into a folder with vtt subtitles
 		- then have a script which would process those vtt files to txt
