@@ -1,0 +1,774 @@
+WEBVTT
+Kind: captions
+Language: it
+ 
+Ciao<00:00:00.420><c> a</c><00:00:00.659><c> tutti</c><00:00:00.659><c> e</c><00:00:01.140><c> bentornati</c><00:00:01.500><c> surnamo</c><00:00:02.460><c> in</c>
+Ciao a tutti e bentornati surnamo in
+ 
+Ciao a tutti e bentornati surnamo in
+italiano<00:00:03.240><c> capita</c><00:00:04.020><c> molto</c><00:00:04.380><c> spesso</c><00:00:04.799><c> che</c><00:00:05.279><c> da</c><00:00:05.940><c> una</c>
+italiano capita molto spesso che da una
+ 
+italiano capita molto spesso che da una
+sola<00:00:06.600><c> parola</c><00:00:06.839><c> se</c><00:00:07.740><c> ne</c><00:00:08.160><c> formino</c><00:00:08.400><c> delle</c><00:00:09.179><c> altre</c>
+sola parola se ne formino delle altre
+ 
+sola parola se ne formino delle altre
+nuove<00:00:10.460><c> Grazie</c><00:00:11.840><c> all'aggiunta</c><00:00:12.840><c> di</c><00:00:13.080><c> un</c><00:00:13.440><c> suffisso</c>
+nuove Grazie all'aggiunta di un suffisso
+ 
+nuove Grazie all'aggiunta di un suffisso
+o<00:00:14.460><c> di</c><00:00:14.700><c> un</c><00:00:14.940><c> prefisso</c>
+o di un prefisso
+ 
+o di un prefisso
+è<00:00:16.800><c> molto</c><00:00:17.039><c> spesso</c><00:00:17.279><c> le</c><00:00:17.880><c> nuove</c><00:00:18.180><c> parole</c><00:00:18.560><c> hanno</c><00:00:19.560><c> dei</c>
+è molto spesso le nuove parole hanno dei
+ 
+è molto spesso le nuove parole hanno dei
+significati<00:00:20.520><c> completamente</c><00:00:21.240><c> diversi</c><00:00:22.140><c> dalla</c>
+significati completamente diversi dalla
+ 
+significati completamente diversi dalla
+parola<00:00:23.279><c> di</c><00:00:24.119><c> partenza</c>
+parola di partenza
+ 
+parola di partenza
+succede<00:00:26.340><c> molto</c><00:00:26.880><c> frequentemente</c><00:00:27.500><c> con</c><00:00:28.500><c> i</c><00:00:28.920><c> verbi</c>
+succede molto frequentemente con i verbi
+ 
+succede molto frequentemente con i verbi
+e<00:00:30.180><c> anche</c><00:00:30.720><c> il</c><00:00:30.960><c> verbo</c><00:00:31.279><c> correre</c><00:00:32.279><c> non</c><00:00:32.880><c> è</c>
+e anche il verbo correre non è
+ 
+e anche il verbo correre non è
+un'eccezione<00:00:34.160><c> Perciò</c><00:00:35.160><c> in</c><00:00:35.520><c> questo</c><00:00:35.700><c> video</c>
+un'eccezione Perciò in questo video
+ 
+un'eccezione Perciò in questo video
+vedremo<00:00:36.600><c> proprio</c><00:00:37.020><c> tutti</c><00:00:37.680><c> quei</c><00:00:38.100><c> verbi</c><00:00:38.280><c> che</c>
+vedremo proprio tutti quei verbi che
+ 
+vedremo proprio tutti quei verbi che
+sono<00:00:38.700><c> derivati</c><00:00:39.540><c> dal</c><00:00:40.320><c> verbo</c><00:00:40.500><c> correre</c><00:00:41.399><c> con</c>
+sono derivati dal verbo correre con
+ 
+sono derivati dal verbo correre con
+l'aggiunta<00:00:42.920><c> generalmente</c><00:00:43.920><c> di</c><00:00:44.460><c> un</c><00:00:44.760><c> prefisso</c><00:00:45.680><c> e</c>
+l'aggiunta generalmente di un prefisso e
+ 
+l'aggiunta generalmente di un prefisso e
+vedremo<00:00:46.860><c> anche</c><00:00:47.100><c> quali</c><00:00:47.940><c> significati</c><00:00:48.899><c> hanno</c>
+vedremo anche quali significati hanno
+ 
+vedremo anche quali significati hanno
+assunto<00:00:50.120><c> restate</c><00:00:51.120><c> là</c>
+ 
+ 
+ 
+prima<00:00:58.020><c> di</c><00:00:58.320><c> proseguire</c><00:00:58.739><c> vorrei</c><00:00:59.219><c> spendere</c>
+prima di proseguire vorrei spendere
+ 
+prima di proseguire vorrei spendere
+qualche<00:01:00.360><c> parola</c><00:01:00.600><c> per</c><00:01:01.340><c> italkie</c><00:01:02.340><c> lo</c><00:01:02.640><c> sponsor</c><00:01:03.120><c> di</c>
+qualche parola per italkie lo sponsor di
+ 
+qualche parola per italkie lo sponsor di
+questo<00:01:03.539><c> video</c><00:01:03.979><c> probabilmente</c><00:01:04.979><c> ne</c><00:01:05.760><c> avrai</c><00:01:06.000><c> già</c>
+questo video probabilmente ne avrai già
+ 
+questo video probabilmente ne avrai già
+sentito<00:01:06.600><c> parlare</c><00:01:07.020><c> Si</c><00:01:07.920><c> tratta</c><00:01:08.220><c> di</c><00:01:08.400><c> una</c>
+sentito parlare Si tratta di una
+ 
+sentito parlare Si tratta di una
+piattaforma<00:01:08.880><c> che</c><00:01:09.720><c> unisce</c><00:01:10.439><c> tutti</c><00:01:11.040><c> gli</c>
+piattaforma che unisce tutti gli
+ 
+piattaforma che unisce tutti gli
+appassionati<00:01:12.180><c> di</c><00:01:12.600><c> lingue</c><00:01:13.080><c> straniere</c>
+appassionati di lingue straniere
+ 
+appassionati di lingue straniere
+studenti<00:01:14.820><c> e</c><00:01:15.299><c> insegnanti</c><00:01:15.840><c> con</c><00:01:16.560><c> italkie</c><00:01:17.280><c> potrai</c>
+studenti e insegnanti con italkie potrai
+ 
+studenti e insegnanti con italkie potrai
+imparare<00:01:18.439><c> qualsiasi</c><00:01:19.439><c> lingua</c><00:01:20.100><c> tu</c><00:01:20.640><c> desideri</c>
+imparare qualsiasi lingua tu desideri
+ 
+imparare qualsiasi lingua tu desideri
+con<00:01:21.840><c> insegnanti</c><00:01:22.759><c> madrelingua</c><00:01:23.759><c> attraverso</c>
+con insegnanti madrelingua attraverso
+ 
+con insegnanti madrelingua attraverso
+lezioni<00:01:25.759><c> individuali</c><00:01:26.900><c> divertenti</c><00:01:27.920><c> complete</c>
+lezioni individuali divertenti complete
+ 
+lezioni individuali divertenti complete
+e<00:01:29.340><c> soprattutto</c><00:01:30.020><c> efficaci</c><00:01:31.220><c> Iscriviti</c><00:01:32.220><c> ad</c>
+e soprattutto efficaci Iscriviti ad
+ 
+e soprattutto efficaci Iscriviti ad
+italkie<00:01:33.299><c> utilizzando</c><00:01:33.720><c> il</c><00:01:34.259><c> link</c><00:01:34.560><c> che</c><00:01:34.920><c> trovi</c><00:01:35.280><c> in</c>
+italkie utilizzando il link che trovi in
+ 
+italkie utilizzando il link che trovi in
+descrizione<00:01:36.020><c> è</c><00:01:37.020><c> gratis</c><00:01:37.140><c> non</c><00:01:37.680><c> c'è</c><00:01:37.979><c> nessun</c>
+descrizione è gratis non c'è nessun
+ 
+descrizione è gratis non c'è nessun
+costo<00:01:38.880><c> di</c><00:01:39.119><c> abbonamento</c><00:01:39.740><c> paghi</c><00:01:40.740><c> solo</c><00:01:40.860><c> quando</c>
+costo di abbonamento paghi solo quando
+ 
+costo di abbonamento paghi solo quando
+fai<00:01:42.060><c> le</c><00:01:42.479><c> lezioni</c><00:01:42.720><c> ti</c><00:01:43.500><c> ricordo</c><00:01:43.740><c> anche</c><00:01:43.979><c> che</c><00:01:44.220><c> ogni</c>
+fai le lezioni ti ricordo anche che ogni
+ 
+fai le lezioni ti ricordo anche che ogni
+insegnante<00:01:45.180><c> sceglie</c><00:01:45.900><c> la</c><00:01:46.380><c> propria</c><00:01:46.500><c> tariffa</c><00:01:47.159><c> su</c>
+insegnante sceglie la propria tariffa su
+ 
+insegnante sceglie la propria tariffa su
+italki<00:01:48.299><c> perciò</c><00:01:49.020><c> Troverai</c><00:01:49.740><c> sicuramente</c>
+italki perciò Troverai sicuramente
+ 
+italki perciò Troverai sicuramente
+quello<00:01:50.939><c> più</c><00:01:51.299><c> adatto</c><00:01:51.540><c> alle</c><00:01:52.320><c> tue</c><00:01:52.799><c> esigenze</c><00:01:53.220><c> e</c>
+quello più adatto alle tue esigenze e
+ 
+quello più adatto alle tue esigenze e
+alle<00:01:54.420><c> tue</c><00:01:54.600><c> tasche</c><00:01:54.840><c> non</c><00:01:55.619><c> perderti</c><00:01:56.280><c> la</c>
+alle tue tasche non perderti la
+ 
+alle tue tasche non perderti la
+straordinaria<00:01:57.540><c> possibilità</c><00:01:58.259><c> di</c><00:01:58.860><c> immergerti</c>
+straordinaria possibilità di immergerti
+ 
+straordinaria possibilità di immergerti
+nella<00:02:00.180><c> lingua</c><00:02:00.360><c> e</c><00:02:00.780><c> nella</c><00:02:01.020><c> cultura</c><00:02:01.320><c> di</c><00:02:01.799><c> tuo</c>
+nella lingua e nella cultura di tuo
+ 
+nella lingua e nella cultura di tuo
+interesse<00:02:03.079><c> puoi</c><00:02:04.079><c> studiare</c><00:02:04.200><c> davvero</c><00:02:04.799><c> quando</c><00:02:05.399><c> e</c>
+interesse puoi studiare davvero quando e
+ 
+interesse puoi studiare davvero quando e
+dove<00:02:06.060><c> vuoi</c><00:02:06.240><c> Inoltre</c><00:02:07.140><c> le</c><00:02:07.680><c> lezioni</c><00:02:07.979><c> individuali</c>
+dove vuoi Inoltre le lezioni individuali
+ 
+dove vuoi Inoltre le lezioni individuali
+su<00:02:09.239><c> italkie</c><00:02:09.899><c> ti</c><00:02:10.380><c> permettono</c><00:02:10.739><c> di</c><00:02:11.099><c> parlare</c><00:02:11.640><c> per</c>
+su italkie ti permettono di parlare per
+ 
+su italkie ti permettono di parlare per
+buona<00:02:12.720><c> parte</c><00:02:12.900><c> della</c><00:02:13.379><c> lezione</c><00:02:13.819><c> e</c><00:02:14.819><c> questo</c><00:02:15.180><c> è</c><00:02:15.480><c> il</c>
+buona parte della lezione e questo è il
+ 
+buona parte della lezione e questo è il
+metodo<00:02:16.020><c> migliore</c><00:02:16.319><c> per</c><00:02:17.040><c> superare</c><00:02:17.459><c> la</c><00:02:17.879><c> paura</c><00:02:18.060><c> di</c>
+metodo migliore per superare la paura di
+ 
+metodo migliore per superare la paura di
+parlare<00:02:18.660><c> e</c><00:02:19.319><c> diventare</c><00:02:19.800><c> più</c><00:02:20.340><c> fluenti</c><00:02:20.940><c> Infatti</c>
+parlare e diventare più fluenti Infatti
+ 
+parlare e diventare più fluenti Infatti
+con<00:02:22.379><c> 19</c><00:02:22.620><c> ore</c><00:02:22.920><c> su</c><00:02:23.400><c> italkie</c><00:02:24.060><c> imparerai</c><00:02:25.020><c> tanto</c>
+con 19 ore su italkie imparerai tanto
+ 
+con 19 ore su italkie imparerai tanto
+quanto<00:02:25.980><c> puoi</c><00:02:26.819><c> imparare</c><00:02:27.120><c> in</c><00:02:27.599><c> un</c><00:02:28.080><c> intero</c>
+quanto puoi imparare in un intero
+ 
+quanto puoi imparare in un intero
+semestre<00:02:28.980><c> all'università</c><00:02:29.959><c> se</c><00:02:30.959><c> stai</c>
+semestre all'università se stai
+ 
+semestre all'università se stai
+studiando<00:02:31.500><c> l'italiano</c><00:02:31.920><c> e</c><00:02:32.520><c> vuoi</c><00:02:32.760><c> fare</c><00:02:32.879><c> qualche</c>
+studiando l'italiano e vuoi fare qualche
+ 
+studiando l'italiano e vuoi fare qualche
+lezione<00:02:33.540><c> con</c><00:02:34.140><c> me</c><00:02:34.440><c> potrai</c><00:02:35.280><c> trovarmi</c><00:02:35.700><c> su</c>
+lezione con me potrai trovarmi su
+ 
+lezione con me potrai trovarmi su
+italkie<00:02:36.660><c> ti</c><00:02:37.260><c> basterà</c><00:02:37.440><c> solo</c><00:02:37.920><c> il</c><00:02:38.099><c> mio</c><00:02:38.160><c> nome</c>
+italkie ti basterà solo il mio nome
+ 
+italkie ti basterà solo il mio nome
+Grazie<00:02:38.879><c> Anna</c><00:02:39.420><c> Filomena</c><00:02:39.840><c> cosa</c><00:02:40.500><c> stai</c>
+Grazie Anna Filomena cosa stai
+ 
+Grazie Anna Filomena cosa stai
+aspettando<00:02:41.099><c> Clicca</c><00:02:41.879><c> subito</c><00:02:42.120><c> sul</c><00:02:42.660><c> link</c><00:02:43.080><c> in</c>
+aspettando Clicca subito sul link in
+ 
+aspettando Clicca subito sul link in
+descrizione<00:02:43.920><c> e</c><00:02:44.640><c> comincia</c><00:02:45.360><c> ad</c><00:02:46.080><c> imparare</c><00:02:46.319><c> senza</c>
+descrizione e comincia ad imparare senza
+ 
+descrizione e comincia ad imparare senza
+se<00:02:47.340><c> e</c><00:02:47.580><c> senza</c><00:02:47.760><c> ma</c>
+se e senza ma
+ 
+se e senza ma
+ 
+incorrere<00:02:52.280><c> in</c><00:02:53.300><c> qualcosa</c><00:02:54.300><c> questo</c><00:02:55.260><c> verbo</c>
+incorrere in qualcosa questo verbo
+ 
+incorrere in qualcosa questo verbo
+significa<00:02:56.160><c> andare</c><00:02:56.940><c> incontro</c>
+significa andare incontro
+ 
+significa andare incontro
+scontrarsi<00:02:59.580><c> con</c><00:03:00.060><c> finire</c><00:03:01.019><c> in</c><00:03:01.800><c> qualcosa</c><00:03:02.099><c> di</c>
+scontrarsi con finire in qualcosa di
+ 
+scontrarsi con finire in qualcosa di
+nocivo<00:03:04.160><c> negativo</c><00:03:05.420><c> dannoso</c><00:03:06.420><c> ma</c><00:03:07.260><c> anche</c><00:03:07.500><c> noioso</c>
+nocivo negativo dannoso ma anche noioso
+ 
+nocivo negativo dannoso ma anche noioso
+fastidioso<00:03:09.360><c> spesso</c><00:03:10.140><c> si</c><00:03:10.680><c> usa</c><00:03:10.800><c> con</c><00:03:11.599><c> questioni</c>
+fastidioso spesso si usa con questioni
+ 
+fastidioso spesso si usa con questioni
+legali<00:03:13.519><c> danni</c><00:03:14.519><c> pene</c><00:03:15.080><c> sanzioni</c><00:03:16.080><c> multe</c>
+legali danni pene sanzioni multe
+ 
+legali danni pene sanzioni multe
+punizioni<00:03:17.879><c> per</c><00:03:18.780><c> esempio</c><00:03:18.959><c> chi</c><00:03:19.920><c> non</c><00:03:20.159><c> rispetterà</c>
+punizioni per esempio chi non rispetterà
+ 
+punizioni per esempio chi non rispetterà
+il<00:03:20.879><c> divieto</c><00:03:21.300><c> potrà</c><00:03:22.019><c> incorrere</c><00:03:22.800><c> in</c><00:03:23.220><c> severe</c>
+il divieto potrà incorrere in severe
+ 
+il divieto potrà incorrere in severe
+sanzioni
+sanzioni
+ 
+sanzioni
+rincorrere<00:03:26.700><c> Questo</c><00:03:27.659><c> è</c><00:03:28.019><c> un</c><00:03:28.080><c> po'</c><00:03:28.140><c> più</c><00:03:28.319><c> vicino</c><00:03:28.440><c> al</c>
+rincorrere Questo è un po' più vicino al
+ 
+rincorrere Questo è un po' più vicino al
+significato<00:03:29.099><c> originale</c><00:03:29.940><c> perché</c><00:03:30.720><c> significa</c>
+significato originale perché significa
+ 
+significato originale perché significa
+correre<00:03:33.080><c> dietro</c><00:03:34.280><c> correre</c><00:03:35.280><c> dietro</c><00:03:35.760><c> a</c><00:03:36.480><c> una</c>
+correre dietro correre dietro a una
+ 
+correre dietro correre dietro a una
+persona<00:03:36.840><c> o</c><00:03:37.739><c> una</c><00:03:38.099><c> cosa</c><00:03:38.340><c> che</c><00:03:38.819><c> fugge</c><00:03:39.659><c> che</c><00:03:40.280><c> si</c>
+persona o una cosa che fugge che si
+ 
+persona o una cosa che fugge che si
+allontana<00:03:41.720><c> fermati</c><00:03:42.720><c> un</c><00:03:42.959><c> attimo</c><00:03:43.080><c> perché</c><00:03:43.620><c> ho</c>
+allontana fermati un attimo perché ho
+ 
+allontana fermati un attimo perché ho
+bisogno<00:03:44.459><c> di</c><00:03:44.640><c> parlarti</c><00:03:45.239><c> e</c><00:03:45.720><c> non</c><00:03:45.959><c> mi</c><00:03:46.140><c> va</c><00:03:46.319><c> di</c>
+bisogno di parlarti e non mi va di
+ 
+bisogno di parlarti e non mi va di
+rincorrerti<00:03:47.220><c> per</c><00:03:47.640><c> tutto</c><00:03:48.120><c> a</c><00:03:48.239><c> casa</c><00:03:48.360><c> Rico</c>
+rincorrerti per tutto a casa Rico
+ 
+rincorrerti per tutto a casa Rico
+scrivere<00:03:51.019><c> a</c>
+scrivere a
+ 
+scrivere a
+questo<00:03:53.400><c> verbo</c><00:03:53.580><c> attenzione</c><00:03:54.239><c> a</c><00:03:55.200><c> più</c><00:03:55.379><c> di</c><00:03:55.500><c> un</c>
+questo verbo attenzione a più di un
+ 
+questo verbo attenzione a più di un
+significato<00:03:56.060><c> può</c><00:03:57.060><c> significare</c><00:03:57.420><c> Innanzitutto</c>
+significato può significare Innanzitutto
+ 
+significato può significare Innanzitutto
+rivolgersi<00:03:59.819><c> in</c><00:04:00.780><c> un</c><00:04:01.019><c> momento</c><00:04:01.080><c> di</c><00:04:01.319><c> bisogno</c><00:04:01.739><c> o</c><00:04:02.400><c> in</c>
+rivolgersi in un momento di bisogno o in
+ 
+rivolgersi in un momento di bisogno o in
+una<00:04:03.060><c> circostanza</c><00:04:03.860><c> difficile</c><00:04:04.860><c> ha</c><00:04:05.819><c> una</c><00:04:06.360><c> persona</c>
+una circostanza difficile ha una persona
+ 
+una circostanza difficile ha una persona
+che<00:04:06.900><c> può</c><00:04:07.799><c> fornire</c><00:04:08.760><c> aiuto</c><00:04:09.680><c> spesso</c><00:04:10.680><c> una</c><00:04:11.400><c> figura</c>
+che può fornire aiuto spesso una figura
+ 
+che può fornire aiuto spesso una figura
+autorevole<00:04:13.280><c> medico</c><00:04:14.280><c> avvocato</c><00:04:15.000><c> giudice</c><00:04:15.900><c> se</c>
+autorevole medico avvocato giudice se
+ 
+autorevole medico avvocato giudice se
+continuerai<00:04:17.400><c> ad</c><00:04:17.880><c> ignorare</c><00:04:18.180><c> i</c><00:04:18.479><c> miei</c>
+continuerai ad ignorare i miei
+ 
+continuerai ad ignorare i miei
+avvertimenti<00:04:19.199><c> dovrò</c><00:04:20.100><c> ricorrere</c><00:04:20.639><c> a</c><00:04:20.940><c> un</c>
+avvertimenti dovrò ricorrere a un
+ 
+avvertimenti dovrò ricorrere a un
+avvocato<00:04:21.860><c> un</c><00:04:22.860><c> altro</c><00:04:23.100><c> significato</c><00:04:23.340><c> di</c>
+avvocato un altro significato di
+ 
+avvocato un altro significato di
+ricorrere<00:04:24.720><c> è</c><00:04:25.440><c> quello</c><00:04:25.620><c> di</c><00:04:26.000><c> servirsi</c><00:04:27.000><c> di</c><00:04:27.900><c> un</c>
+ricorrere è quello di servirsi di un
+ 
+ricorrere è quello di servirsi di un
+mezzo<00:04:28.580><c> spesso</c><00:04:29.580><c> negativo</c><00:04:30.440><c> violento</c><00:04:31.460><c> per</c>
+mezzo spesso negativo violento per
+ 
+mezzo spesso negativo violento per
+raggiungere<00:04:33.120><c> lo</c><00:04:33.660><c> scopo</c><00:04:34.040><c> desiderato</c><00:04:35.060><c> Non</c>
+raggiungere lo scopo desiderato Non
+ 
+raggiungere lo scopo desiderato Non
+costringermi<00:04:36.900><c> a</c><00:04:37.320><c> ricorrere</c><00:04:37.740><c> alle</c><00:04:38.040><c> maniere</c>
+costringermi a ricorrere alle maniere
+ 
+costringermi a ricorrere alle maniere
+forti<00:04:39.020><c> oppure</c><00:04:40.020><c> il</c><00:04:40.500><c> verbo</c><00:04:40.820><c> ricorrere</c><00:04:41.820><c> in</c>
+forti oppure il verbo ricorrere in
+ 
+forti oppure il verbo ricorrere in
+riferimento<00:04:42.960><c> a</c><00:04:43.380><c> eventi</c><00:04:44.040><c> festività</c><00:04:45.199><c> assume</c>
+riferimento a eventi festività assume
+ 
+riferimento a eventi festività assume
+anche<00:04:46.440><c> il</c><00:04:46.620><c> significato</c><00:04:46.860><c> di</c><00:04:47.479><c> essere</c><00:04:48.560><c> celebrato</c>
+anche il significato di essere celebrato
+ 
+anche il significato di essere celebrato
+in<00:04:50.280><c> un</c><00:04:50.759><c> determinato</c><00:04:50.940><c> momento</c><00:04:51.479><c> in</c><00:04:52.440><c> un</c>
+in un determinato momento in un
+ 
+in un determinato momento in un
+determinato<00:04:53.160><c> giorno</c><00:04:53.520><c> in</c><00:04:54.180><c> una</c><00:04:54.540><c> certa</c><00:04:54.780><c> data</c><00:04:55.460><c> per</c>
+determinato giorno in una certa data per
+ 
+determinato giorno in una certa data per
+esempio<00:04:56.639><c> il</c><00:04:57.180><c> 25</c><00:04:57.660><c> aprile</c><00:04:58.400><c> Ricorre</c><00:04:59.400><c> la</c><00:04:59.940><c> festa</c>
+esempio il 25 aprile Ricorre la festa
+ 
+esempio il 25 aprile Ricorre la festa
+della<00:05:00.840><c> Liberazione</c><00:05:01.560><c> d'Italia</c>
+della Liberazione d'Italia
+ 
+della Liberazione d'Italia
+per<00:05:04.320><c> correre</c><00:05:04.759><c> e</c><00:05:05.759><c> percorrere</c><00:05:06.180><c> significa</c>
+per correre e percorrere significa
+ 
+per correre e percorrere significa
+compiere<00:05:07.620><c> un</c><00:05:07.860><c> tragitto</c><00:05:08.540><c> o</c><00:05:09.540><c> anche</c>
+compiere un tragitto o anche
+ 
+compiere un tragitto o anche
+attraversare<00:05:11.040><c> un</c><00:05:11.280><c> luogo</c><00:05:11.580><c> Per</c><00:05:12.540><c> esempio</c><00:05:12.720><c> per</c>
+attraversare un luogo Per esempio per
+ 
+attraversare un luogo Per esempio per
+arrivare<00:05:13.919><c> al</c><00:05:14.580><c> castello</c><00:05:15.380><c> bisognava</c>
+arrivare al castello bisognava
+ 
+arrivare al castello bisognava
+Percorrere<00:05:17.580><c> un</c><00:05:18.180><c> sentiero</c>
+Percorrere un sentiero
+ 
+Percorrere un sentiero
+tortuoso<00:05:20.639><c> oppure</c><00:05:21.600><c> la</c><00:05:22.560><c> ferrovia</c>
+tortuoso oppure la ferrovia
+ 
+tortuoso oppure la ferrovia
+percorreva<00:05:24.479><c> tutto</c><00:05:25.020><c> il</c><00:05:25.380><c> paese</c>
+percorreva tutto il paese
+ 
+percorreva tutto il paese
+trascorrere<00:05:27.860><c> trascorrere</c><00:05:28.860><c> significa</c>
+trascorrere trascorrere significa
+ 
+trascorrere trascorrere significa
+semplicemente
+semplicemente
+ 
+semplicemente
+passare<00:05:31.639><c> un</c><00:05:32.639><c> certo</c><00:05:32.940><c> periodo</c><00:05:33.240><c> di</c><00:05:33.539><c> tempo</c><00:05:33.780><c> dove</c>
+passare un certo periodo di tempo dove
+ 
+passare un certo periodo di tempo dove
+trascorrerai<00:05:35.699><c> le</c><00:05:36.120><c> vacanze</c><00:05:36.300><c> di</c><00:05:36.600><c> Natale</c><00:05:36.720><c> da</c>
+trascorrerai le vacanze di Natale da
+ 
+trascorrerai le vacanze di Natale da
+bambina<00:05:38.240><c> trascorrevo</c><00:05:39.240><c> sempre</c><00:05:39.479><c> l'estate</c><00:05:40.199><c> a</c>
+bambina trascorrevo sempre l'estate a
+ 
+bambina trascorrevo sempre l'estate a
+casa<00:05:41.100><c> dei</c><00:05:41.520><c> nonni</c>
+casa dei nonni
+ 
+casa dei nonni
+decorrere
+decorrere
+ 
+decorrere
+decorrere<00:05:45.120><c> significa</c><00:05:45.620><c> entrare</c><00:05:46.620><c> in</c><00:05:47.100><c> vigore</c>
+decorrere significa entrare in vigore
+ 
+decorrere significa entrare in vigore
+essere<00:05:48.479><c> valido</c><00:05:49.280><c> a</c><00:05:50.280><c> partire</c><00:05:50.580><c> da</c><00:05:51.300><c> una</c><00:05:51.780><c> certa</c>
+essere valido a partire da una certa
+ 
+essere valido a partire da una certa
+data<00:05:52.740><c> verità</c><00:05:53.160><c> Perciò</c><00:05:54.060><c> è</c><00:05:54.479><c> spesso</c><00:05:54.660><c> seguito</c>
+data verità Perciò è spesso seguito
+ 
+data verità Perciò è spesso seguito
+dalla<00:05:55.500><c> preposizione</c><00:05:56.240><c> da</c><00:05:57.240><c> e</c><00:05:58.020><c> A</c><00:05:58.620><c> decorrere</c><00:05:58.919><c> da</c>
+dalla preposizione da e A decorrere da
+ 
+dalla preposizione da e A decorrere da
+significa<00:05:59.580><c> proprio</c><00:06:00.000><c> a</c><00:06:00.780><c> partire</c><00:06:00.960><c> da</c><00:06:01.919><c> però</c><00:06:02.699><c> è</c>
+significa proprio a partire da però è
+ 
+significa proprio a partire da però è
+più<00:06:03.240><c> utilizzato</c><00:06:03.680><c> in</c><00:06:04.680><c> contesti</c><00:06:05.100><c> formali</c><00:06:06.020><c> Non</c>
+più utilizzato in contesti formali Non
+ 
+più utilizzato in contesti formali Non
+so<00:06:07.139><c> gli</c><00:06:08.039><c> interessi</c><00:06:08.600><c> dell'investimento</c>
+so gli interessi dell'investimento
+ 
+so gli interessi dell'investimento
+decorrono<00:06:10.620><c> dal</c><00:06:11.039><c> primo</c><00:06:11.280><c> del</c><00:06:11.460><c> mese</c>
+decorrono dal primo del mese
+ 
+decorrono dal primo del mese
+scorrere<00:06:14.180><c> scorrere</c><00:06:15.180><c> significa</c><00:06:15.800><c> fluire</c><00:06:16.820><c> detto</c>
+scorrere scorrere significa fluire detto
+ 
+scorrere scorrere significa fluire detto
+dei<00:06:18.360><c> liquidi</c><00:06:18.840><c> o</c><00:06:19.560><c> più</c><00:06:19.919><c> In</c><00:06:20.100><c> generale</c><00:06:20.419><c> procedere</c>
+dei liquidi o più In generale procedere
+ 
+dei liquidi o più In generale procedere
+agevolmente<00:06:23.060><c> il</c><00:06:24.060><c> fiume</c><00:06:24.860><c> scorreva</c><00:06:25.860><c> lungo</c><00:06:26.220><c> la</c>
+agevolmente il fiume scorreva lungo la
+ 
+agevolmente il fiume scorreva lungo la
+valle<00:06:26.699><c> Il</c><00:06:27.419><c> sangue</c><00:06:27.900><c> scorre</c><00:06:28.680><c> nelle</c><00:06:29.160><c> vene</c><00:06:29.460><c> oggi</c>
+valle Il sangue scorre nelle vene oggi
+ 
+valle Il sangue scorre nelle vene oggi
+il<00:06:30.780><c> traffico</c><00:06:31.139><c> scorre</c><00:06:32.039><c> senza</c><00:06:32.580><c> problemi</c><00:06:33.139><c> ancora</c>
+il traffico scorre senza problemi ancora
+ 
+il traffico scorre senza problemi ancora
+il<00:06:34.740><c> tempo</c><00:06:35.419><c> scorreva</c><00:06:36.419><c> velocemente</c>
+il tempo scorreva velocemente
+ 
+il tempo scorreva velocemente
+occorrere
+occorrere
+ 
+occorrere
+occorrere<00:06:41.220><c> significa</c><00:06:41.639><c> essere</c><00:06:42.240><c> necessario</c><00:06:43.020><c> e</c>
+occorrere significa essere necessario e
+ 
+occorrere significa essere necessario e
+con<00:06:44.160><c> questo</c><00:06:44.280><c> verbo</c><00:06:44.580><c> la</c><00:06:45.240><c> frase</c><00:06:45.419><c> si</c><00:06:45.900><c> forma</c><00:06:46.259><c> molto</c>
+con questo verbo la frase si forma molto
+ 
+con questo verbo la frase si forma molto
+spesso<00:06:47.220><c> con</c><00:06:48.120><c> il</c><00:06:48.600><c> soggetto</c><00:06:49.580><c> posposto</c><00:06:50.580><c> cioè</c>
+spesso con il soggetto posposto cioè
+ 
+spesso con il soggetto posposto cioè
+messo<00:06:51.360><c> dopo</c><00:06:52.740><c> il</c><00:06:53.340><c> verbo</c><00:06:53.660><c> per</c><00:06:54.660><c> esempio</c><00:06:54.840><c> ci</c>
+messo dopo il verbo per esempio ci
+ 
+messo dopo il verbo per esempio ci
+occorre<00:06:55.919><c> più</c><00:06:56.280><c> tempo</c><00:06:56.880><c> per</c><00:06:57.660><c> portare</c><00:06:58.020><c> a</c><00:06:58.380><c> termine</c>
+occorre più tempo per portare a termine
+ 
+occorre più tempo per portare a termine
+il<00:06:59.100><c> progetto</c><00:06:59.539><c> oppure</c><00:07:00.560><c> per</c><00:07:01.560><c> preparare</c><00:07:01.979><c> la</c>
+il progetto oppure per preparare la
+ 
+il progetto oppure per preparare la
+carbonara
+carbonara
+ 
+carbonara
+occorrono<00:07:04.199><c> le</c><00:07:04.680><c> uova</c><00:07:04.979><c> il</c><00:07:05.580><c> pecorino</c><00:07:06.000><c> e</c><00:07:06.479><c> il</c>
+occorrono le uova il pecorino e il
+ 
+occorrono le uova il pecorino e il
+guanciale
+guanciale
+ 
+guanciale
+intercorrere
+intercorrere
+ 
+intercorrere
+intercorrere<00:07:11.460><c> significa</c><00:07:12.060><c> essere</c><00:07:12.780><c> tra</c><00:07:13.380><c> una</c>
+intercorrere significa essere tra una
+ 
+intercorrere significa essere tra una
+cosa<00:07:13.740><c> e</c><00:07:14.220><c> l'altra</c><00:07:14.539><c> stare</c><00:07:15.539><c> in</c><00:07:16.080><c> mezzo</c><00:07:16.259><c> Quindi</c>
+cosa e l'altra stare in mezzo Quindi
+ 
+cosa e l'altra stare in mezzo Quindi
+esistere<00:07:18.180><c> tra</c><00:07:19.080><c> due</c><00:07:19.560><c> o</c><00:07:20.520><c> più</c><00:07:20.639><c> elementi</c><00:07:20.940><c> quindi</c>
+esistere tra due o più elementi quindi
+ 
+esistere tra due o più elementi quindi
+può<00:07:22.259><c> indicare</c><00:07:22.500><c> per</c><00:07:22.919><c> esempio</c><00:07:23.220><c> il</c><00:07:24.000><c> tempo</c><00:07:24.560><c> che</c><00:07:25.560><c> è</c>
+può indicare per esempio il tempo che è
+ 
+può indicare per esempio il tempo che è
+passato<00:07:26.340><c> tra</c><00:07:26.819><c> due</c><00:07:27.240><c> eventi</c><00:07:27.900><c> o</c><00:07:28.680><c> la</c><00:07:29.400><c> distanza</c><00:07:29.639><c> che</c>
+passato tra due eventi o la distanza che
+ 
+passato tra due eventi o la distanza che
+c'è<00:07:30.360><c> tra</c><00:07:30.720><c> due</c><00:07:30.960><c> cose</c><00:07:31.139><c> o</c><00:07:31.860><c> la</c><00:07:32.220><c> relazione</c><00:07:32.460><c> che</c><00:07:32.819><c> c'è</c>
+c'è tra due cose o la relazione che c'è
+ 
+c'è tra due cose o la relazione che c'è
+tra<00:07:33.539><c> due</c><00:07:33.840><c> persone</c><00:07:34.099><c> per</c><00:07:35.099><c> esempio</c><00:07:35.280><c> tra</c><00:07:35.699><c> l'Italia</c>
+tra due persone per esempio tra l'Italia
+ 
+tra due persone per esempio tra l'Italia
+e<00:07:36.300><c> la</c><00:07:36.419><c> Spagna</c><00:07:36.599><c> sono</c><00:07:36.900><c> sempre</c><00:07:37.259><c> intercorsi</c><00:07:38.220><c> buoni</c>
+e la Spagna sono sempre intercorsi buoni
+ 
+e la Spagna sono sempre intercorsi buoni
+rapporti<00:07:39.479><c> tra</c><00:07:40.319><c> noi</c><00:07:40.620><c> intercorre</c><00:07:41.580><c> un</c><00:07:41.880><c> grande</c>
+rapporti tra noi intercorre un grande
+ 
+rapporti tra noi intercorre un grande
+rapporto<00:07:42.539><c> di</c><00:07:42.960><c> fiducia</c><00:07:43.500><c> tra</c><00:07:44.400><c> le</c><00:07:44.699><c> due</c><00:07:44.880><c> case</c>
+rapporto di fiducia tra le due case
+ 
+rapporto di fiducia tra le due case
+intercorreva<00:07:46.380><c> una</c><00:07:46.860><c> breve</c><00:07:47.039><c> distanza</c>
+intercorreva una breve distanza
+ 
+intercorreva una breve distanza
+soccorrere<00:07:50.120><c> soccorrere</c><00:07:51.120><c> significa</c><00:07:51.780><c> dare</c>
+soccorrere soccorrere significa dare
+ 
+soccorrere soccorrere significa dare
+prestare<00:07:53.580><c> aiuto</c><00:07:54.300><c> soprattutto</c><00:07:55.139><c> in</c><00:07:55.860><c> una</c>
+prestare aiuto soprattutto in una
+ 
+prestare aiuto soprattutto in una
+situazione<00:07:56.280><c> di</c><00:07:56.819><c> emergenza</c><00:07:57.660><c> per</c><00:07:58.440><c> esempio</c><00:07:58.620><c> in</c>
+situazione di emergenza per esempio in
+ 
+situazione di emergenza per esempio in
+caso<00:07:59.280><c> di</c><00:07:59.400><c> incidente</c><00:07:59.940><c> è</c><00:08:00.840><c> obbligatorio</c>
+caso di incidente è obbligatorio
+ 
+caso di incidente è obbligatorio
+fermarsi<00:08:02.160><c> e</c><00:08:02.699><c> soccorrere</c><00:08:03.539><c> i</c><00:08:04.080><c> feriti</c><00:08:04.639><c> a</c><00:08:05.639><c> correre</c>
+fermarsi e soccorrere i feriti a correre
+ 
+fermarsi e soccorrere i feriti a correre
+e<00:08:06.660><c> questo</c><00:08:06.960><c> verbo</c><00:08:07.139><c> significa</c><00:08:07.580><c> correre</c><00:08:08.580><c> verso</c>
+e questo verbo significa correre verso
+ 
+e questo verbo significa correre verso
+un<00:08:09.900><c> luogo</c><00:08:10.139><c> per</c><00:08:10.979><c> una</c><00:08:11.460><c> ragione</c><00:08:11.639><c> particolare</c><00:08:12.500><c> sia</c>
+un luogo per una ragione particolare sia
+ 
+un luogo per una ragione particolare sia
+perché<00:08:13.800><c> in</c><00:08:14.160><c> quel</c><00:08:14.340><c> luogo</c><00:08:14.460><c> è</c><00:08:14.940><c> successo</c><00:08:15.120><c> per</c>
+perché in quel luogo è successo per
+ 
+perché in quel luogo è successo per
+esempio<00:08:15.660><c> qualcosa</c><00:08:16.020><c> di</c><00:08:16.380><c> brutto</c><00:08:16.680><c> di</c><00:08:17.160><c> negativo</c>
+esempio qualcosa di brutto di negativo
+ 
+esempio qualcosa di brutto di negativo
+quindi<00:08:18.479><c> per</c><00:08:18.960><c> esempio</c><00:08:19.139><c> i</c><00:08:19.740><c> giornalisti</c><00:08:20.400><c> sono</c>
+quindi per esempio i giornalisti sono
+ 
+quindi per esempio i giornalisti sono
+Accorsi<00:08:21.660><c> sul</c><00:08:22.259><c> luogo</c><00:08:22.440><c> dell'incidente</c><00:08:23.340><c> sia</c>
+Accorsi sul luogo dell'incidente sia
+ 
+Accorsi sul luogo dell'incidente sia
+perché<00:08:24.360><c> in</c><00:08:24.660><c> quel</c><00:08:24.840><c> luogo</c><00:08:24.960><c> si</c><00:08:25.500><c> sta</c><00:08:25.740><c> svolgendo</c><00:08:26.039><c> un</c>
+perché in quel luogo si sta svolgendo un
+ 
+perché in quel luogo si sta svolgendo un
+evento<00:08:26.699><c> a</c><00:08:27.300><c> cui</c><00:08:27.539><c> si</c><00:08:27.660><c> vuole</c><00:08:27.780><c> partecipare</c><00:08:28.500><c> per</c>
+evento a cui si vuole partecipare per
+ 
+evento a cui si vuole partecipare per
+esempio<00:08:29.580><c> il</c><00:08:30.300><c> 25</c><00:08:30.840><c> giugno</c><00:08:31.319><c> si</c><00:08:31.979><c> terrà</c><00:08:32.399><c> la</c><00:08:32.940><c> sagra</c>
+esempio il 25 giugno si terrà la sagra
+ 
+esempio il 25 giugno si terrà la sagra
+del<00:08:33.719><c> fungo</c><00:08:34.200><c> porcino</c>
+del fungo porcino
+ 
+del fungo porcino
+Accorrete<00:08:36.300><c> numerosi</c><00:08:37.080><c> Che</c><00:08:37.500><c> significa</c><00:08:38.120><c> venite</c>
+Accorrete numerosi Che significa venite
+ 
+Accorrete numerosi Che significa venite
+in<00:08:39.779><c> questo</c><00:08:40.020><c> luogo</c><00:08:40.820><c> venite</c><00:08:41.820><c> velocemente</c>
+in questo luogo venite velocemente
+ 
+in questo luogo venite velocemente
+correte<00:08:43.140><c> verso</c><00:08:43.320><c> questo</c><00:08:43.680><c> luogo</c><00:08:43.979><c> per</c><00:08:44.700><c> non</c>
+correte verso questo luogo per non
+ 
+correte verso questo luogo per non
+perdervi<00:08:45.959><c> questo</c><00:08:46.560><c> evento</c><00:08:47.240><c> Com'è</c><00:08:48.240><c> andata</c>
+perdervi questo evento Com'è andata
+ 
+perdervi questo evento Com'è andata
+Fatemi<00:08:48.779><c> sapere</c><00:08:49.019><c> nei</c><00:08:49.500><c> commenti</c><00:08:49.940><c> quanti</c><00:08:50.940><c> di</c>
+Fatemi sapere nei commenti quanti di
+ 
+Fatemi sapere nei commenti quanti di
+questi<00:08:51.480><c> verbi</c><00:08:51.720><c> già</c><00:08:52.260><c> conosce</c><00:08:52.620><c> giornate</c><00:08:52.980><c> e</c>
+questi verbi già conosce giornate e
+ 
+questi verbi già conosce giornate e
+quanti<00:08:53.700><c> invece</c><00:08:53.820><c> ne</c><00:08:54.660><c> avete</c><00:08:54.899><c> imparati</c><00:08:55.380><c> grazie</c>
+quanti invece ne avete imparati grazie
+ 
+quanti invece ne avete imparati grazie
+al<00:08:56.220><c> video</c><00:08:56.339><c> Sono</c><00:08:56.640><c> molto</c><00:08:57.060><c> curiosa</c><00:08:57.600><c> e</c><00:08:58.019><c> fatemi</c>
+al video Sono molto curiosa e fatemi
+ 
+al video Sono molto curiosa e fatemi
+sapere<00:08:58.560><c> anche</c><00:08:58.920><c> se</c><00:08:59.339><c> vi</c><00:08:59.820><c> è</c><00:08:59.940><c> piaciuto</c><00:09:00.060><c> lo</c><00:09:00.959><c> stile</c>
+sapere anche se vi è piaciuto lo stile
+ 
+sapere anche se vi è piaciuto lo stile
+di<00:09:01.320><c> questo</c><00:09:01.560><c> video</c><00:09:01.740><c> quindi</c><00:09:02.100><c> una</c><00:09:02.640><c> parola</c><00:09:03.019><c> che</c>
+di questo video quindi una parola che
+ 
+di questo video quindi una parola che
+con<00:09:05.279><c> l'aggiunta</c><00:09:05.820><c> di</c><00:09:06.000><c> prefissi</c><00:09:06.779><c> o</c><00:09:07.140><c> suffissi</c>
+con l'aggiunta di prefissi o suffissi
+ 
+con l'aggiunta di prefissi o suffissi
+forma<00:09:08.459><c> delle</c><00:09:08.880><c> altre</c><00:09:09.120><c> parole</c><00:09:09.480><c> spesso</c><00:09:10.320><c> con</c>
+forma delle altre parole spesso con
+ 
+forma delle altre parole spesso con
+significati<00:09:11.339><c> completamente</c><00:09:11.820><c> diversi</c><00:09:12.360><c> E</c><00:09:13.080><c> a</c>
+significati completamente diversi E a
+ 
+significati completamente diversi E a
+proposito<00:09:13.440><c> di</c><00:09:13.680><c> questo</c><00:09:13.920><c> stile</c><00:09:14.220><c> ho</c><00:09:14.820><c> già</c>
+proposito di questo stile ho già
+ 
+proposito di questo stile ho già
+realizzato<00:09:15.300><c> un</c><00:09:15.720><c> altro</c><00:09:15.839><c> video</c><00:09:16.019><c> che</c><00:09:16.380><c> vi</c>
+realizzato un altro video che vi
+ 
+realizzato un altro video che vi
+consiglio<00:09:16.980><c> di</c><00:09:17.220><c> guardare</c><00:09:17.459><c> se</c><00:09:17.880><c> ancora</c><00:09:18.060><c> non</c><00:09:18.240><c> lo</c>
+consiglio di guardare se ancora non lo
+ 
+consiglio di guardare se ancora non lo
+avete<00:09:18.540><c> fatto</c><00:09:18.720><c> in</c><00:09:19.380><c> particolare</c><00:09:19.680><c> lì</c><00:09:20.220><c> Mi</c>
+avete fatto in particolare lì Mi
+ 
+avete fatto in particolare lì Mi
+occupavo<00:09:21.360><c> dei</c><00:09:21.600><c> verbi</c><00:09:21.839><c> che</c><00:09:22.440><c> si</c><00:09:23.100><c> sono</c><00:09:23.339><c> formati</c><00:09:23.700><c> a</c>
+occupavo dei verbi che si sono formati a
+ 
+occupavo dei verbi che si sono formati a
+partire<00:09:24.240><c> da</c><00:09:24.600><c> venire</c><00:09:25.880><c> se</c><00:09:26.880><c> vi</c><00:09:27.120><c> piace</c><00:09:27.240><c> il</c><00:09:27.540><c> genere</c>
+partire da venire se vi piace il genere
+ 
+partire da venire se vi piace il genere
+posso<00:09:28.200><c> realizzarne</c><00:09:28.920><c> anche</c><00:09:29.040><c> degli</c><00:09:29.519><c> altri</c><00:09:29.700><c> con</c>
+posso realizzarne anche degli altri con
+ 
+posso realizzarne anche degli altri con
+altre<00:09:30.600><c> parole</c><00:09:30.779><c> fatemelo</c><00:09:31.500><c> sapere</c><00:09:31.680><c> sempre</c><00:09:32.100><c> nei</c>
+altre parole fatemelo sapere sempre nei
+ 
+altre parole fatemelo sapere sempre nei
+commenti<00:09:32.700><c> e</c><00:09:33.060><c> per</c><00:09:33.360><c> guardare</c><00:09:33.480><c> questo</c><00:09:33.839><c> video</c>
+commenti e per guardare questo video
+ 
+commenti e per guardare questo video
+invece<00:09:34.320><c> non</c><00:09:34.740><c> dimenticate</c><00:09:35.339><c> di</c><00:09:35.580><c> cliccare</c><00:09:36.120><c> sul</c>
+invece non dimenticate di cliccare sul
+ 
+invece non dimenticate di cliccare sul
+link<00:09:36.779><c> che</c><00:09:36.959><c> trovate</c><00:09:37.140><c> qui</c><00:09:37.500><c> in</c><00:09:37.680><c> alto</c><00:09:37.860><c> nella</c><00:09:38.279><c> card</c>
+link che trovate qui in alto nella card
+ 
+link che trovate qui in alto nella card
+o<00:09:39.120><c> giù</c><00:09:39.300><c> in</c><00:09:39.839><c> descrizione</c><00:09:40.140><c> Per</c><00:09:40.920><c> tutti</c><00:09:41.220><c> gli</c><00:09:41.399><c> altri</c>
+o giù in descrizione Per tutti gli altri
+ 
+o giù in descrizione Per tutti gli altri
+contenuti<00:09:41.880><c> di</c><00:09:42.300><c> grammatica</c><00:09:42.660><c> o</c><00:09:43.019><c> di</c><00:09:43.080><c> cultura</c>
+contenuti di grammatica o di cultura
+ 
+contenuti di grammatica o di cultura
+italiana<00:09:43.560><c> potete</c><00:09:44.160><c> passare</c><00:09:44.459><c> dal</c><00:09:44.820><c> nostro</c><00:09:45.000><c> sito</c>
+italiana potete passare dal nostro sito
+ 
+italiana potete passare dal nostro sito
+lername.com<00:09:45.959><c> non</c><00:09:46.740><c> dimenticate</c><00:09:47.339><c> di</c><00:09:47.519><c> lasciare</c>
+lername.com non dimenticate di lasciare
+ 
+lername.com non dimenticate di lasciare
+un<00:09:47.940><c> mi</c><00:09:48.060><c> piace</c><00:09:48.240><c> a</c><00:09:48.480><c> questo</c><00:09:48.600><c> video</c><00:09:48.720><c> se</c><00:09:49.080><c> vi</c><00:09:49.260><c> è</c>
+un mi piace a questo video se vi è
+ 
+un mi piace a questo video se vi è
+piaciuto<00:09:49.440><c> se</c><00:09:49.740><c> vi</c><00:09:49.980><c> è</c><00:09:50.040><c> stato</c><00:09:50.100><c> utile</c><00:09:50.220><c> iscrivervi</c>
+piaciuto se vi è stato utile iscrivervi
+ 
+piaciuto se vi è stato utile iscrivervi
+al<00:09:51.480><c> canale</c><00:09:51.600><c> se</c><00:09:51.839><c> ancora</c><00:09:52.019><c> non</c><00:09:52.140><c> lo</c><00:09:52.380><c> avete</c><00:09:52.560><c> avete</c>
+al canale se ancora non lo avete avete
+ 
+al canale se ancora non lo avete avete
+fatto<00:09:53.100><c> e</c><00:09:53.580><c> non</c><00:09:53.700><c> dimenticate</c><00:09:54.180><c> anche</c><00:09:54.300><c> di</c><00:09:54.600><c> seguire</c>
+fatto e non dimenticate anche di seguire
+ 
+fatto e non dimenticate anche di seguire
+l'ernamo<00:09:55.920><c> su</c><00:09:56.040><c> Instagram</c><00:09:56.220><c> su</c><00:09:56.519><c> Facebook</c><00:09:56.640><c> su</c>
+l'ernamo su Instagram su Facebook su
+ 
+l'ernamo su Instagram su Facebook su
+Twitter<00:09:57.180><c> su</c><00:09:57.420><c> Pinterest</c><00:09:57.899><c> su</c><00:09:58.200><c> Tik</c><00:09:58.440><c> Tok</c><00:09:58.680><c> e</c><00:09:59.220><c> su</c>
+Twitter su Pinterest su Tik Tok e su
+ 
+Twitter su Pinterest su Tik Tok e su
+telegram<00:09:59.640><c> Per</c><00:10:00.180><c> tutti</c><00:10:00.540><c> gli</c><00:10:00.839><c> altri</c><00:10:00.899><c> contenuti</c>
+telegram Per tutti gli altri contenuti
+ 
+telegram Per tutti gli altri contenuti
+che<00:10:01.800><c> potete</c><00:10:02.160><c> trovare</c><00:10:02.399><c> lì</c><00:10:02.700><c> e</c><00:10:03.420><c> con</c><00:10:03.720><c> questo</c><00:10:03.839><c> è</c>
+che potete trovare lì e con questo è
+ 
+che potete trovare lì e con questo è
+tutto Io<00:10:04.440><c> vi</c><00:10:04.860><c> saluto</c><00:10:04.920><c> vi</c><00:10:05.580><c> aspetto</c>
+tutto Io vi saluto vi aspetto
+ 
+tutto Io vi saluto vi aspetto
+prestissimo<00:10:06.899><c> in</c><00:10:07.560><c> un</c><00:10:07.740><c> nuovo</c><00:10:07.800><c> video</c>

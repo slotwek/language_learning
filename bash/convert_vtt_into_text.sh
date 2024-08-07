@@ -7,5 +7,6 @@ input=${1}
 filename=$(basename "${1}")
 bname=${filename%%.*}
 
-sed '/^00:/d; /^$/d; s/&nbsp;/ /g' "${input}" | tr '\r\n' ' ' | sed "s/Este vídeo foi..*//" | sed 's/\.  /\.\r\n/g' | sed 's/  */ /g' > "${bname}.txt"
+sed  -e '/^[0-9][0-9]:..*/d' -e '/^$/d' -e '/^\[..*\]$/d' "${input}" > "${bname}.txt"
+# sed '/^00:/d; /^$/d; s/&nbsp;/ /g' "${input}" | tr '\r\n' ' ' | sed "s/Este vídeo foi..*//" | sed 's/\.  /\.\r\n/g' | sed 's/  */ /g' > "${bname}.txt"
 
