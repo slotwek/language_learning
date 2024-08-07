@@ -23,6 +23,11 @@ for n in $ls LearnAmo_raw/*.vtt; do echo $n; ./convert_vtt_into_text.sh "$n" ; d
 # Then move all txt files into dedicated folder:
 mv *.txt LearnAmo_txt/
 ```
+### 1 liner to download subtitles and process them:
+```bash
+# This removes timestamps
+yt-dlp --skip-download --write-subs --sub-lang it --exec before_dl:"sed -i -e '/^[0-9][0-9]:..*/d'  %(requested_subtitles.:.filepath)#q" "https://www.youtube.com/watch?v=O6jla75ksVk"
+```
 # Italian
 ## Italian / Simple Italian News
 - [v] Downloaded all text and mp3 files since 2018 till 2024-07-01
