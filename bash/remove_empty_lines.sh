@@ -4,4 +4,5 @@
 subtitle_file="$1"
 
 # Remove empty lines
-sed -i '/^$/d' "$subtitle_file" > ${1}.txt
+sed '/^$/d' "$subtitle_file"  > ___.txt
+sed -i '/^$/d' "$subtitle_file" 
