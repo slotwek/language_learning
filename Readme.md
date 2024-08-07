@@ -28,6 +28,7 @@ mv *.txt LearnAmo_txt/
 # This removes timestamps
 # Trying remove empty lines (various methods - removes the content of the output file)
 # e.g. /^$/d; /^[[:space:]]*$/d
+# But this might be the issue with GitHub version of bash!
 yt-dlp --skip-download --write-subs --sub-lang it --exec before_dl:"sed -i -e '/^[0-9][0-9]:..*/d'  %(requested_subtitles.:.filepath)#q" "https://www.youtube.com/watch?v=O6jla75ksVk"
 ```
 # Italian
