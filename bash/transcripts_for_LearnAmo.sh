@@ -9,5 +9,9 @@
 
 for n in LearnAmo_raw/*.vtt; do
     echo $n
-    sed -e '/^[0-9][0-9]:..*/d' -e '/^$/d' -e '/^\[..*\]$/d' ${n} > ${n}.txt
+    filename=$(basename "${n}")
+    bfn=$($filename%%.*)
+    # echo $filename, $bfn
+
+    # sed -e '/^[0-9][0-9]:..*/d' -e '/^$/d' -e '/^\[..*\]$/d' ${n} > ${n}.txt
 done
