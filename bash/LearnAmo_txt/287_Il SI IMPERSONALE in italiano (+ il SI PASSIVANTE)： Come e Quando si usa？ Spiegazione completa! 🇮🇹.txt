@@ -1,0 +1,137 @@
+WEBVTT
+Kind: captions
+Language: it
+Ciao a tutti e bentornati su LearnAmo! Le lezioni di italiano con i miei studenti
+mi hanno fatto notare che se c'è qualcosa che crea confusione a chi impara l'Italiano,
+anche agli studenti più avanzati, [però, a volte, anche a qualche italiano] è il cosiddetto:
+SI "impersonale",
+soprattutto perché ha delle regole di formazione un po'
+particolari e apparentemente senza senso.
+Eh già, forse al presente potrebbe sembrare facile, ma al passato? Si dice: "SI è
+andato", o "SI è andati" o "SI sono andati"?
+O, ancora, cosa succede se c'è un altro pronome? Si dirà: "SI lo fa" oppure "se lo fa" o, ancora,
+"lo SI fa"?
+In questo video, cercherò di spiegare in maniera chiara ed esaustiva
+tutto, ma proprio tutto, quello che c'è da sapere sul cosiddetto SI
+"impersonale". [sigla]
+Allora, iniziamo subito col dire che
+il SI "impersonale" è usato per parlare, in maniera distaccata,
+di eventi o situazioni che non riguardano qualcuno in maniera particolare, ma riguardano piuttosto
+un soggetto "indefinito",
+"generale", "non specifico".
+Viene spesso utilizzato per parlare di cose che riguardano
+tutte le persone ed è impiegato tanto nel linguaggio parlato,
+quanto in quello scritto, sebbene
+prevalga in
+quest'ultimo. Dunque, a differenza del SI "riflessivo", che si riferisce a una persona o un gruppo di persone specifiche,
+il SI "impersonale"
+sostituisce "la gente", "le persone",
+"tutti" e si usa sempre e solo alla terza
+persona, singolare o plurale, con l'ausiliare "essere".
+Vediamo ora, nel dettaglio,
+tutti i casi in cui possiamo usare il SI "impersonale" e come farlo. 1) Con tempi
+semplici (cioè composti da un solo verbo) come: presente, imperfetto,
+futuro. Se il verbo è
+transitivo e regge un oggetto diretto,
+deve essere coniugato alla terza persona singolare,
+se l'oggetto che regge è
+singolare, o alla terza persona plurale,
+se l'oggetto che regge è
+plurale. Ma facciamo un po' di chiarezza con gli esempi.
+"Alla festa SI BERRÀ
+birra e SI
+MANGERANNO panini".
+Come potete notare in questo esempio, il tempo è futuro indicativo, quindi un tempo semplice, cioè
+composto da un solo verbo. I verbi utilizzati, invece, cioè "bere" e "mangiare",
+sono transitivi, ed entrambi reggono, nella frase considerata, un oggetto diretto.
+L'oggetto di "bere" è "birra", che è singolare,
+pertanto abbiamo usato la terza persona singolare: si BERRÀ.
+Mentre l'oggetto di "mangiare" è "panini" che è plurale,
+pertanto abbiamo usato la terza persona plurale: si MANGERANNO.
+Vediamo un altro esempio con lo stesso principio.
+"In vacanza SI PRENDE il sole e SI LEGGONO molti libri".
+Attenzione però:
+alcuni libri di grammatica
+chiamano questo primo caso SI "passivante", perché l'oggetto diretto del verbo non è altro che il soggetto
+di una frase passiva.
+Ecco un esempio per chiarire meglio:
+"Qui SI studia l'italiano" =
+"qui l'italiano è studiato" (da qualcuno, da persona in generale non specificate).
+2) Con tempi semplici: se il verbo è
+intransitivo (cioè non regge un oggetto diretto) oppure è
+transitivo ma non regge nessun oggetto in quella determinata frase,
+il verbo del SI "impersonale" è sempre alla terza persona singolare.
+Per esempio:
+"in questo ristorante SI MANGIA molto bene!"
+Come potete vedere, in questo esempio, il verbo utilizzato è lo stesso di prima,
+"mangiare", che è transitivo ma, dal momento che non ha un
+oggetto, in questa frase, si coniuga sempre alla terza persona singolare.
+Ma vediamo, anche, un esempio con un verbo intransitivo:
+"D'estate SI VA al mare".
+Facile, no?
+Andiamo avanti.
+3) Con tempi semplici di verbi riflessivi, che già hanno un "si" (pronome
+riflessivo) alla terza persona singolare,
+non c'è una ripetizione (si si),
+bensì si deve usare la combinazione CI SI!
+In questo caso, il verbo è sempre
+singolare, anche se seguito da un oggetto plurale.
+Per esempio: "in vacanza CI SI ALZA sempre tardi".
+"Prima di mangiare, CI SI LAVA le mani".
+4) Con tempi composti (cioè formati da due verbi) come: passato prossimo, trapassato
+prossimo, futuro anteriore...
+le cose si complicano un pochino,
+soprattutto con la concordanza del participio passato.
+Ma cerchiamo di fare subito chiarezza:
+se il SI "impersonale" precede un verbo che ha
+generalmente come ausiliare il verbo "essere"
+(come un verbo di movimento o di stato, un verbo riflessivo o passivo),
+allora il participio passato
+finisce con -i (o -e se si parla di sole donne).
+Per esempio: "si può mangiare
+solo se prima CI SI è lavatI le mani".
+"Se SI è statE lasciatE, bisogna andare dal parrucchiere e farsi belle!"
+"Quest'estate SI è andatI in Portogallo". Se il SI "impersonale" precede un verbo
+intransitivo che ha generalmente come ausiliare il verbo "avere"
+(come ridere o camminare) o un verbo transitivo
+ma senza oggetto,
+allora il participio passato
+termina sempre con -o.
+Per esempio: "era un film triste e non SI è risO per niente!"
+"Alla festa del direttore SI è mangiatO veramente bene!"
+Se il SI "impersonale" precede un verbo transitivo
+seguito da un oggetto
+diretto, allora il participio passato va concordato con l'oggetto
+(quindi può finire in -o, -a, -i, -e).
+In questo caso, se l'oggetto è plurale, anche il verbo "essere" sarà plurale.
+Per esempio: "non so lì ma qui non SI è vistA nemmeno una persona".
+"Il colpevole non è stato catturato perché non SI sono analizzatE bene tutte le prove".
+"Purtroppo per questa patologia non SI sono ancora fattI dei progressi".
+Se il SI "impersonale"
+precede un verbo
+copulativo (cioè uno di quei verbi che non ha senso da solo, ma che crea un legame tra il soggetto
+e un nome o un aggettivo, come "essere", "sembrare",
+"diventare", "nominare"...),
+allora il participio passato
+termina con -i (o -e se si parla di sole donne).
+Per esempio: "una volta che SI è diventatI ricchI, la vita diventa più facile".
+"Se SI è statE amichE, si è andate almeno una volta a pranzo fuori insieme".
+Infine, dobbiamo vedere il caso 5) in cui si usa il SI
+"impersonale" con un altro pronome riferito allo stesso verbo. Cosa succede in questo caso? Ebbene,
+l'altro pronome va prima del SI, secondo l'ordine: pronome + Si + verbo.
+Per esempio:
+"quando si fa la cena? LA SI FA quando tutti sono tornati a casa".
+"Si è andati in vacanza a Parigi l'anno scorso e CI SI È ANDATI per celebrare un anniversario di matrimonio".
+"Non si dovrebbero avere dubbi sulle torte: LE SI È FATTE bene!"
+"Non MI SI DEVE prendere in giro! Né ora né mai! O ci saranno conseguenze!"
+Fuu... Come è andata? Ho cercato di essere il più chiara possibile, però se ci sono ancora dei dubbi, o delle domande,  fatemele pure nei
+commenti!
+Ma non vi spaventate: è solo una questione di pratica e i miei studenti lo possono confermare!
+Infatti, una volta che si comincia a usare il SI "impersonale" non lo si dimentica più!
+Se invece, adesso, dopo tutto questo stress e
+tutte queste informazioni, volete rilassarvi un pochino, potete farlo con un programma italiano;
+quindi, prima andate a guardare il nostro video dedicato proprio ai 10 Programmi Televisivi Italiani che dovete, assolutamente,
+guardare...
+soprattutto in questi giorni in cui passiamo molto più tempo a casa! Come sempre, trovate il link qui in alto, sulla card, o nella descrizione.
+Ah, e se ancora non lo avete fatto, non dimenticate di seguire LearnAmo anche sui social: su Instagram, su Facebook e su Twitter.
+Io vi aspetto nel prossimo video! Ciao!

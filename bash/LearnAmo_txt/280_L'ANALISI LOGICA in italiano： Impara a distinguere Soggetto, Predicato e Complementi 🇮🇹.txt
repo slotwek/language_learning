@@ -1,0 +1,136 @@
+WEBVTT
+Kind: captions
+Language: it
+Ciao a tutti e ben... (risata)
+Ciao a tutti e bentornati sul LearnAmo! Per capire il significato di una frase, è spesso necessario
+comprendere il ruolo che svolge
+ciascun elemento che la compone.
+In questo video, pertanto, parleremo dell'ANALISI LOGICA,
+usata per individuare le funzioni che svolgono i diversi elementi all'interno della frase:
+soggetto, predicato
+complemento e così via. Non si tratta, quindi, di
+analizzare le parole della frase, una per una, come avviene nell' ANALISI
+GRAMMATICALE (di cui vi abbiamo parlato in un'altra lezione e se volete
+vederla, vi abbiamo lasciato il link qui in alto, nella card, o giù, nella descrizione),
+ma di analizzare le parti di cui la frase si compone... che possono quindi essere formate anche da più parole!
+Prima di entrare nel vivo dell'ANALISI LOGICA,
+dobbiamo chiarire che in una frase o
+"proposizione", come chiamata la frase in analisi logica, ci sono alcuni elementi fissi,
+imprescindibili, che non possono mancare, e altri elementi che
+aggiungono informazioni e precisazioni al nucleo della frase, ma che sono
+facoltativi, cioè possono esserci, oppure no. Gli elementi FISSI sono il "soggetto" e il
+"predicato". Gli elementi
+FACOLTATIVI sono i "complementi", gli "attributi" e le
+"apposizioni". Vediamoli tutti, nel dettaglio, partendo dagli elementi fissi.
+Il SOGGETTO è l'elemento di cui il predicato, costituito dal verbo, esprime qualcosa
+Il "soggetto" può indicare: 1) la persona, o la cosa, che compie l'azione
+2) la persona, o la cosa, di cui viene espressa una qualità 3) la persona, o la cosa, cosa che subisce l'azione.
+Il "soggetto" può essere: - un sostantivo, proprio o comune
+- un pronome o
+- sottinteso, quando è un pronome, ma non è necessario renderlo esplicito perché  scontato o già noto
+all'interlocutore.
+Il PREDICATO è l'elemento che dice qualcosa a proposito del soggetto:
+chi è, com'è, cosa fa, cosa subisce. Il "predicato" può essere:
+- nominale, ossia formato dal verbo essere chiamato
+"copula" + un sostantivo o un aggettivo,
+chiamato "nome del predicato",
+oppure formato da un "verbo copulativo", cioè un verbo che non ha un significato da solo, ma ha bisogno di un
+aggettivo o di un nome per assumere un significato compiuto, come:
+sembrare, diventare, dire, chiamare,
+soprannominare, nominare, eleggere, ritenere, giudicare + un sostantivo o un aggettivo, chiamato
+"predicativo del soggetto".
+Ma il "predicato" può anche essere: - verbale, cioè formato da un qualsiasi altro verbo, che non sia
+essere o un copulativo.
+[Fatte queste precisazioni
+sugli elementi imprescindibili e fondamentali,
+possiamo passare, ora, agli elementi facoltativi.]
+Il COMPLEMENTO arricchisce e completa il contenuto della frase, dando informazioni aggiuntive.
+Purtroppo ci sono davvero tanti complementi,
+ma, per fortuna, è generalmente possibile riconoscerli attraverso una domanda.
+- Complemento OGGETTO risponde alla domanda: Chi?/ Che cosa?
+- Complemento DI SPECIFICAZIONE
+risponde alla domanda: Di chi?/ Di che cosa?
+- Complemento DI TERMINE risponde alla domanda: A chi? A che cosa?
+- Complemento D'AGENTE (per le persone) o complemento DI CAUSA EFFICIENTE (per le cose)
+rispondono alla domanda: Da chi? Da che cosa?
+- Complemento DI CAUSA risponde alla domanda: Per quale motivo?
+- Complemento DI FINE risponde alla domanda: Con quale scopo?/ Con quale fine?
+- Complemento DI MEZZO risponde alla domanda: Per mezzo di chi?/ Per mezzo di cosa?
+- Complemento DI COMPAGNIA (per le persone) o UNIONE (per le cose) rispondono alla domanda:
+Insieme a chi?/ Insieme a che cosa?
+- Complementi DI LUOGO 1) stato IN luogo risponde alla domanda: Dove?/ In che luogo?
+2) moto A luogo risponde alla domanda: Verso dove?/ Verso quale luogo?
+3) moto DA luogo risponde alla domanda: Da dove/ Da quale luogo?
+4) moto PER luogo risponde alla domanda: Per dove?/ Per quale luogo?
+[Ah, piccola parentesi, se vi piacciono le nostre magliette, vi ricordiamo che potete
+acquistarle nel nostro negozio on-line LearnAmo Collection! Il link è nella descrizione.
+Riprendiamo con il video?]
+- Complemento DI ORIGINE risponde alla domanda: Da chi?/ Da che cosa?/ Da dove?
+- Complemento DI TEMPO 1) tempo DETERMINATO risponde alla domanda: Quando? In quale momento?
+2) tempo CONTINUATO risponde alla domanda: Per quanto tempo?
+- Complemento DI PARAGONE risponde alle domande:
+Più/ Meno di chi? Più/Meno di che cosa?
+Come chi?/Come che cosa? Quanto chi?/ Quanto che cosa?
+- Complemento DI MODO risponde alla domanda: Come?/ In che modo?
+- Complemento DI ARGOMENTO risponde alla domanda: Di quale argomento?/
+A proposito di chi?/ A proposito di che cosa?
+- Complemento DI QUALITÀ risponde alla domanda: Con quale qualità?/ Con quali caratteristiche?
+- Complemento DI MATERIA risponde alla domanda: Di quale materiale?
+- Complemento DI ETÀ risponde alla domanda: A che età/ Di quanti anni?
+- Complemento DI LIMITAZIONE risponde alla domanda: In quale ambito?/ Entro quali limiti?
+- Complemento DI VANTAGGIO e SVANTAGGIO rispondono alle domande:
+A vantaggio di chi?/ A vantaggio di che cosa? A danno di chi?/ A danno di che cosa?
+- Complemento DI COLPA e PENA rispondono alle domande:
+Di quale colpa?/ Per quale colpa? A quale pena? Con quale pena?
+- Complemento DI ABBONDANZA e PRIVAZIONE rispondono alle domande:
+Di cosa abbonda? Di cosa è privo?
+- Complemento DI DENOMINAZIONE risponde alla domanda: Di quale nome?
+- Complemento PARTITIVO risponde alla domanda: Tra chi?/Tra che cosa?
+- Complemento DI ALLONTANAMENTO
+risponde alla domanda: Da chi? Da che cosa?/ Da dove?
+Gli ATTRIBUTI non sono altro che
+aggettivi uniti a un sostantivo, i quali, in analisi logica,
+prendono questo nome.
+Possono svolgere la funzione di attributo gli aggettivi di ogni specie:
+qualificativi, dimostrativi,
+interrogativi, numerali ecc.
+Le APPOSIZIONI,
+invece, sono quei sostantivi che si uniscono ad altri sostantivi per
+determinarli e precisarli meglio. Si possono riferire al soggetto, al nome del predicato o a un complemento
+e possono essere: "semplici", ossia costituite da una sola parola o
+"composte" ossia costituite da due o più parole.
+Ora non ci resta che darvi solo qualche altra piccola indicazione e poi potremo finalmente
+esercitarci con l'analisi logica di alcune frasi!
+1) I verbi SERVILI (dovere, potere, sapere, volere)
+e i verbi FRASEOLOGICI (cioè tutti i verbi che oltre ad avere un significato proprio, possono
+accompagnare un verbo di modo indefinito,
+come: fare, lasciare, stare per, sforzarsi di, provare a, cercare di...)
+formano un "predicato verbale unico" con i verbi che seguono.
+2) L'ARTICOLO fa tutt'uno con il nome che accompagna.
+3) Le CONGIUNZIONI, gli AVVERBI e le ESCLAMAZIONI
+vanno solamente definiti come tali.
+4) Alcuni AVVERBI possono essere usati anche COME COMPLEMENTI
+(soprattutto di tempo o di modo): in questo caso è opportuno precisare
+che si tratta di avverbi e dire quale complemento rappresentano.
+5) Il PRONOME RELATIVO va scomposto per capire che funziona logica assume.
+6) I pronomi DIRETTI e INDIRETTI e le particelle
+CI e NE vanno studiati attentamente
+per capire a quale complemento corrispondono.
+Bene, adesso analizziamo 5 frasi insieme: Comparirà una frase per volta sullo schermo,
+passeranno 5 secondi e poi ci saranno le soluzioni.
+Quindi, se volete mettervi alla prova e
+cimentarvi, per vedere se avete capito quanto spiegato,
+mettete pausa al video, non appena compare la frase e fate ripartire il video solo dopo aver finito di analizzarla!
+Via!
+Com'è andata? Eh già, non è proprio così semplice però non vi preoccupate
+perché vi servirà solo un po' di pratica e poi vedrete che le cose verranno da sé! Se invece volete
+continuare ad ampliare le vostre conoscenze linguistiche..
+beh, allora dovete dare un'occhiata alla nostra
+video-lezione sull'analisi del periodo!
+Trovate, come sempre, il link qui in alto, nella card, o giù, nella descrizione!
+Oppure, potete andare sul nostro sito
+www.learnamo.com,
+dove troverete una marea di video lezioni di grammatica e cultura italiana,
+dove potrete anche esercitarvi con alcuni esercizi
+automatici. Si, oppure, non dimenticate di seguire LearnAmo anche sui social: su Instagram, su Facebook e su Twitter,
+per tanti altri contenuti extra! A presto!

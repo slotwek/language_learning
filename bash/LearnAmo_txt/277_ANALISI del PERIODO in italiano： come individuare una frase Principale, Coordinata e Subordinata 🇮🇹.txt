@@ -1,0 +1,150 @@
+WEBVTT
+Kind: captions
+Language: it
+Ciao a tutti e
+bentornati su LearnAmo! Scrivere bene significa creare frasi chiare e ben articolate, in modo da trasmettere il messaggio
+correttamente e senza equivoci!
+Ma, per scrivere bene, è necessario capire con che cosa abbiamo a che fare, perché solo quando conosciamo davvero gli
+ingredienti possiamo
+manipolarli al meglio per creare una torta squisita!
+Quindi, è bene conoscere le regole che sono alla base della formazione
+del periodo, ossia la frase complessa, quella formata da due o più frasi semplici, dette anche
+"proposizioni".
+Pertanto, dopo aver visto l'analisi logica e l'analisi grammaticale, di cui trovate i link nella descrizione, non ci resta che vedere
+l'ultimo tipo di analisi, quello che vi può davvero aiutare
+a comunicare correttamente il vostro messaggio, ossia: L' ANALISI DEL PERIODO.
+"Analizzare un periodo" significa individuare le funzioni di tutte le proposizioni che lo compongono ed esaminare le relazioni
+che ognuna di queste ha con le altre. Ok, tutto molto bello, ma come si effettua questa analisi?
+Ve lo spiego subito!
+Il primo passo è 1) individuare l'elemento necessario e imprescindibile, che non può mai mancare:
+la proposizione PRINCIPALE, quella, senza la quale, l'intero periodo non ha senso.
+Tutte le altre proposizioni, infatti, sono aggiunte facoltative, che danno informazioni in più sull'azione
+espressa dalla principale, ma che si potrebbero anche omettere, senza far perdere di senso la frase.
+Successivamente, occorre 2) individuare se ci sono le proposizioni
+COORDINATE e quelle SUBORDINATE.
+Una proposizione
+COORDINATA è una frase che ha un rapporto di uguaglianza con la frase a cui è legata e che, quindi, è al suo stesso livello.
+È possibile avere coordinate alla principale, ma anche coordinate ad alcune subordinate. Una proposizione
+SUBORDINATA, invece, è una frase che ha un rapporto di dipendenza dalla frase principale, o da un'altra
+subordinata, e che quindi non gode di una propria autonomia, cioè non ha un vero e proprio senso da sola;
+di solito, è introdotta da una preposizione o una congiunzione.
+L' ultimo passaggio dell'analisi del periodo è  3) l'individuazione delle varie caratteristiche tanto delle coordinate quanto delle
+subordinate.
+Cominciamo dalle COORDINATE: di queste, bisogna determinare la tipologia a seconda della congiunzione da cui sono introdotte.
+Ecco tutte le tipologie:
+- copulativa: introdotta da congiunzioni che esprimono legame simile a una somma, come: "e,
+anche, pure, inoltre, né, neppure, nemmeno"
+- disgiuntiva: introdotta da congiunzioni che indicano una possibilità alternativa, rispetto a quanto affermato in precedenza,
+come: "o, ovvero, oppure, altrimenti"
+- avversativa: introdotta da congiunzioni che esprimono un contrasto, una contrapposizione, rispetto al contenuto della proposizione
+precedente, come: "ma, però, tuttavia, anzi, peraltro, piuttosto, nondimeno, eppure"
+- esplicativa: introdotta da congiunzioni che servono per spiegare ciò che è stato affermato in precedenza, come:
+"infatti, difatti, in vero, cioè"
+- conclusiva: retta da congiunzioni che servono a introdurre deduzioni logiche o
+conclusioni, come: "quindi, dunque, perciò, pertanto, ebbene"
+- correlativa: introdotta da congiunzioni che vanno in coppia e che legano le frasi l'una con l'altra, come: "e... e,
+sia... sia, né... né, o... o, non solo... ma anche"
+- sostitutiva: introdotta da congiunzioni che servono ad affermare un concetto
+nettamente contrastante rispetto al precedente, tanto da proporre la
+sostituzione, come: "bensì, invece, semmai"
+Per quanto riguarda invece le SUBORDINATE,
+di queste bisogna determinare 1) il GRADO di subordinazione
+- primo grado: se dipende direttamente dalla principale o da una
+coordinata alla principale
+- secondo grado: se dipende da una subordinata di primo grado
+- terzo grado: se dipende da una subordinata di secondo grado e così via
+2) la FORMA che può essere:
+- esplicita: ossia formata da un verbo di modi finiti, come: indicativo, congiuntivo condizionale, imperativo o
+- implicita: ossia formata da un verbo di modi indefiniti, come: infinito, gerundio, participio.
+Spesso, per trovare la funzione di una proposizione
+implicita è necessario trasformarla in esplicita.
+3) la FUNZIONE che svolge nella frase, cioè il significato che comunica
+A questo proposito, una SUBORDINATA può essere:
+- soggettiva: ricopre il ruolo di soggetto della proposizione
+reggente ed è sempre introdotta da forme verbali impersonali.
+In forma 'esplicita' è formata da: "che" + indicativo, congiuntivo, condizionale;
+in forma 'implicita' è formata da: "di" + infinito (ma può anche esserci soltanto l'infinito)
+- oggettiva: ricopre il ruolo di oggetto della proposizione reggente.
+In forma 'esplicita' è formata da: "che" + indicativo, congiuntivo, condizionale;
+in 'forma implicita' è formata da: "di" + infinito
+- finale: sta ad indicare il fine, lo scopo dell'azione
+espressa dalla reggente.
+In forma 'esplicita' è formata da: "perché, affinché" + congiuntivo;
+in forma 'implicita' è formata da: "per, di, a" oppure locuzioni come: "al fine di, con lo scopo di, nell'intento di" + infinito
+- relativa: specifica o amplia il significato di un termine della frase reggente.
+In forma 'esplicita' è formata da: un pronome relativo,
+come: "che, cui, il quale, la quale, i quali, le quali, chi" + indicativo, condizionale o
+congiuntivo;
+in forma 'implicita' è formata da: participio o "da" + infinito
+- temporale: indica il momento, o la
+circostanza, in cui avviene l'azione espressa nella reggente.
+In forma 'esplicita' è formata da congiunzioni o locuzioni
+temporali, come: "quando, mentre, prima, dopo, nel momento in cui non appena, fino a che" + indicativo o
+congiuntivo;
+in forma 'implicita' è formata da: participio, gerundio o "dopo/ prima di" + infinito
+- causale: indica la causa dell'azione espressa dalla reggente.
+In forma 'esplicita' è formata da: "perché, poiché, siccome, dal momento che" + indicativo;
+in forma 'implicita' è formata da: participio passato, gerundio o "per" + infinito
+- concessiva: indica il fatto nonostante il quale si verifica
+comunque l'azione della reggente.
+In forma 'esplicita' è formata da: "benché,
+nonostante, sebbene, malgrado" + congiuntivo oppure "anche se" + indicativo;
+mentre in forma 'implicita' è formata da: "pur" + gerundio o "benché, sebbene" + participio passato
+- consecutiva: esprime la conseguenza dell'azione
+espressa nella reggente, la quale spesso ha tra i suoi elementi un avverbio che la annuncia.
+In forma 'esplicita' è formata da: "così/ tanto/ talmente/ a tal punto...
+che" + indicativo o condizionale;
+in forma 'implicita' è formata da "tale/ a tal punto da" + infinito
+- modale: indica il modo in cui l'azione della reggente si verifica.
+In forma 'esplicita' è formata da: "come, come se, nel modo in cui, quasi che" + indicativo, congiuntivo o condizionale;
+in forma 'implicita' è formata da: gerundio o "con, a" + infinito
+- dichiarativa: spiega qualcosa riguardo a un termine della frase reggente.
+In forma 'esplicita' è formata da: "che" + indicativo, congiuntivo o condizionale;
+in forma 'implicita' è formata da: "di" +  infinito
+- condizionale: indica i requisiti necessari
+la condizione perché l'azione della reggente possa verificarsi.
+In forma 'esplicita' è formata da: "se, qualora, purché, ammesso che, nel caso in cui" + indicativo o congiuntivo;
+in forma 'implicita' è formata da: gerundio o "a" + infinito
+- comparativa: effettua un paragone con quanto espresso dalla reggente.
+In forma 'esplicita' è formata da: "come, più... di
+quanto, meglio... di quanto, meno... di quello, peggio... di come, tanto... come, tanto...
+quanto, piuttosto che, ..." + indicativo o congiuntivo;
+in forma 'implicita' è formata da:" più che,  piuttosto che" + infinito
+- avversativa: esprime un concetto in
+contrapposizione a ciò che viene espresso nella reggente.
+In forma 'esplicita' è formata da: "mentre (invece), laddove (invece), quando (invece)" + indicativo o
+condizionale;
+in forma 'implicita' è formata da "anziché, invece di, al posto di" + infinito
+- strumentale: esprime il mezzo con cui avviene l'azione espressa nella reggente. La forma implicita è
+formata da: gerundio o "con, a furia di, a forza di" + infinito
+- interrogativa indiretta: non è altro che una domanda in forma indiretta,
+introdotta da pronomi o aggettivi interrogativi, avverbi interrogativi o congiunzioni interrogative.
+La forma 'esplicita' è formata da indicativo, congiuntivo condizionale;
+la forma 'implicita' è formata dall'infinito
+- limitativa: indica l'ambito, il limite, entro il quale è valido quanto affermato nella reggente.
+La forma 'esplicita' è formata da: "per quello che, per quanto, a quanto" + indicativo o congiuntivo;
+la forma implicita è formata da: "in quanto a" + infinito
+- esclusiva: esprime una circostanza che viene esclusa, un fatto che non si è verificato
+La forma 'esplicita' è formata da: "senza che" + congiuntivo;
+la forma 'implicita' è formata da "senza" + infinito
+- eccettuativa: esprime un' eccezione a quanto affermato dalla reggente.
+La forma 'esplicita' è formata da: "fuorché, eccetto che, tranne che, tranne se, a meno che, salvo che" +
+congiuntivo o indicativo;
+la forma 'implicita' è formata da: "fuorché, eccetto che, tranne che, a meno che, salvo che" + infinito
+- aggiuntiva: indica un fatto che si aggiunge a quanto espresso dalla reggente.
+La forma 'implicita' è formata da: "oltre a, oltre che" + infinito.
+Bene, adesso passiamo invece a qualche esempio, cioè vediamo come si effettua
+concretamente l'analisi del periodo in cinque frasi!
+Come sempre
+comparirà una frase sullo schermo: vi lascerò 5 secondi, nei quali
+dovrete cercare di fare l'analisi del periodo da soli; se ve ne servono di più,
+mettete pausa al video, dopodiché ci saranno le soluzioni! Siete pronti?
+Cominciamo!
+Uff... che stanchezza! Ma ditemi un po': com'è andata? È stato troppo difficile?Oppure solo un po'? Fatemelo sapere nei commenti!
+Adesso, se siete troppo stanchi ma volete comunque
+imparare qualcosa, non perdetevi il video dedicato al riassunto
+divertente e spiritoso della Divina Commedia di Dante o dei Promessi Sposi di Manzoni!
+Trovate i link in alto, nella card o giù, nella descrizione.
+Inoltre, vi ricordo di seguire LearnAmo su tutti i social: su Instagram, su Facebook e su Twitter, vi basterà cercare LearnAmo o cliccare
+direttamente sui link in descrizione. Noi ci rivedremo prestissimo!
+Ciao!

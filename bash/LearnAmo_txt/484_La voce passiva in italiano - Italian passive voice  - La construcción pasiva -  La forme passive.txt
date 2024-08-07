@@ -1,0 +1,238 @@
+WEBVTT
+Kind: captions
+Language: it
+- Pronto?
+- Ciao Graziana!
+Come va?
+- Ciao Rocco!
+Va benissimo!
+Ho appena saputo che uno dei miei studenti
+è stato promosso a pieni voti nel suo esame
+di italiano!
+- Eh, non avevo dubbi!
+Ah, a proposito...
+Sei riuscita a preparare quella lezione sul
+passivo che ci è stata chiesta da uno dei
+nostri studenti nei commenti?
+- Certo!
+E ti dico di più!
+Dopo la nostra lezione il passivo sarà considerato
+un gioco da ragazzi!
+- Non cantare vittoria troppo presto e aspettiamo
+di vedere cosa ne pensano i nostri studenti!
+Ciao!
+Come promesso, oggi ci occupiamo del passivo
+in italiano!
+E cerchiamo subito di trovare le differenze
+tra la forma attiva e la forma passiva!
+Allora, forma attiva.
+“Maria compra il gelato”.
+“Maria” è il soggetto della frase e il
+soggetto nella forma attiva compie l'azione
+espressa dal verbo.
+In questo caso, il soggetto compie l'azione
+di comprare.
+Dunque, nella forma attiva il soggetto e l'agente
+(cioè chi compie l'azione) coincidono.
+Vediamo invece cosa succede nella forma passiva:
+“Il gelato è comprato da Maria”.
+Il soggetto è “il gelato”, che in questo
+caso (quindi nella forma passiva) subisce
+l'azione espressa dal verbo.
+Azione che è, invece, compiuta da qualcos'altro,
+da qualcun altro.
+Nel nostro caso, Maria.
+Quindi, il soggetto e l'agente nella forma
+passiva sono diversi.
+Però, cerchiamo di capire come si trasforma
+una frase da attiva a passiva in italiano.
+Allora, ecco qui la nostra frase di prima:
+“Maria compra il gelato”.
+Se vogliamo trasformare questa frase attiva
+in una frase passiva, dobbiamo seguire questi
+punti.
+Vediamo subito!
+Il complemento oggetto della frase attiva
+(nel nostro caso “il gelato”) diventa
+il soggetto della frase passiva.
+Vedete?!
+Freccetta...
+Soggetto.
+Il verbo, invece, della forma passiva è costituito
+da verbo essere (al tempo e al modo del verbo
+della frase attiva) più il participio passato.
+Vediamo subito l'esempio: “compra”.
+“Compra”, quindi verbo della frase attiva,
+è presente indicativo.
+Se io voglio trasformare questo verbo in un
+verbo passivo, dovrò utilizzare il verbo
+essere al presente indicativo, cioè allo
+stesso tempo e allo stesso modo del verbo
+della forma attiva.
+E poi, il participio passato del mio verbo.
+In questo caso, “comprare”.
+Invece, il soggetto della frase attiva diventa
+l'agente della frase passiva ed è introdotto
+sempre dalla preposizione 'da'.
+Tutto chiaro?
+Vediamo un altro esempio: “Paolo ha visto
+il film”.
+Come si trasforma questa frase nella forma
+passiva?
+Allora, complemento oggetto diventa il soggetto
+della frase passiva.
+“Il film”.
+Il verbo invece attivo è “ha visto”.
+Quindi, passato prossimo indicativo.
+Allora, per formare il verbo al passivo dovremo
+usare il passato prossimo del verbo essere
+(quindi, come vedete, “è stato”) più
+il participio passato di “vedere” (“visto”).
+Il soggetto della frase attiva diventa invece
+l'agente della frase passiva, introdotto da
+'da'.
+Non tutte le frasi attive possono essere trasformate
+in frasi passive.
+Infatti, il presupposto necessario, quindi
+la condizione necessaria affinché una frase
+attiva si possa trasformare in una frase passiva
+è la presenza di un verbo transitivo.
+Cioè, un verbo che regge il complemento oggetto,
+dunque il complemento diretto, che risponde
+alla domanda “Chi?"
+"Che cosa?”
+Senza complemento oggetto, infatti, non ci
+sarebbe il soggetto per la frase passiva.
+Per esempio, vediamo questa frase: “Paolo
+passeggia in centro”.
+È una frase attiva.
+Il soggetto è “Paolo”.
+Il verbo è “passeggiare”.
+Ma “passeggiare” non regge un oggetto
+diretto.
+Non posso “passeggiare qualcosa”.
+È per questo che non ci può essere il passivo,
+perché non ci sarebbe il soggetto della frase
+passiva.
+Attenzione!
+Il verbo essere nella frase passiva può essere
+sostituito dal verbo venire.
+Ma solo se il tempo del verbo essere non è
+composto.
+Cosa sono i tempi non composti?
+Per intenderci, sono quei tempi costituiti
+da una sola parola: io sono, io ero, io sarò...
+Come vedete, una sola parola.
+Dunque, appunto, i tempi non composti sono
+il presente, l'imperfetto, il passato remoto,
+il futuro semplice dell'indicativo, ma anche
+presente condizionale, congiuntivo e così
+via.
+Vediamo degli esempi.
+“Il gelato è comprato da Maria”.
+Come vedete, il tempo del verbo essere è
+presente.
+Dunque, non è composto, ma c'è una sola
+parola.
+Per questo possiamo sostituire il verbo essere
+con il verbo venire: “Il gelato viene comprato
+da Maria”.
+Nessun problema.
+Invece, “Il gelato è stato comprato da
+Maria”.
+In questo caso, il tempo del verbo essere
+è passato prossimo, che è un verbo composto,
+perché come vedete ci sono due parole.
+Allora, non possiamo sostituirlo con il verbo
+venire.
+Non possiamo dire in italiano “Il gelato
+è venuto comprato da Maria”.
+No!
+Andiamo avanti.
+Dovete sapere che nelle frasi passive l'agente
+può anche non esserci.
+Quindi, non è sempre presente, perché può
+capitare che non si conosca l'agente; oppure
+non sia rilevante (non ci serve sapere chi
+ha compiuto l'azione); oppure è sottinteso
+(quindi sappiamo già chi è l'agente); oppure
+si tratta di una moltitudine generica (le
+persone, la gente, molte persone...).
+Quindi, vogliamo dare più enfasi all'azione
+stessa e non a chi l'ha compiuta.
+Quindi vi potrà capitare certamente di sentire
+frasi come: “"Notte stellata" è considerato
+il quadro più famoso di Van Gogh”.
+Quindi il soggetto è “"Notte stellata"”.
+Il verbo è “è considerato”.
+Ma, da chi è considerato il quadro più famoso
+di Van Gogh?
+Uhm...
+Non è dato sapersi!
+Perché?
+Perché si può trattare di una moltitudine
+generica di persone (quindi: molte persone,
+tutti...), quindi non serve esplicitare l'agente.
+Attenzione ora!
+Parliamo di 'si' passivante.
+Sicuramente vi capiterà di leggere o sentire
+una frase di questo tipo: “Qui si vende
+il pane”.
+E questo 'si' cosa significa?
+In questa frase il 'si' non sta per “sé,
+se stesso”, quindi non ha funzione riflessiva.
+No.
+Ma ha una funzione proprio “passivante”,
+cioè rende passivo il verbo.
+Dire “qui si vende il pane” è come dire
+“qui è venduto - o viene venduto - il pane”.
+È la stessa cosa.
+Però, il 'si' passivante è usato solo con
+la terza persona singolare e plurale, quindi
+a seconda del numero del soggetto.
+“Il pane” è singolare, quindi “si vende”.
+Però, posso dire “qui si vendono le bibite”.
+Perché “le bibite” è plurale (e sarebbe
+come dire “qui sono vendute - o vengono
+vendute - le bibite”).
+Attenzione, attenzione!
+Non confondete il 'si' passivante che abbiamo
+appena visto con il 'si' impersonale!
+Allora, se il verbo è intransitivo (quindi
+non regge il complemento oggetto) oppure è
+transitivo, ma non c'è nella frase il complemento
+oggetto, allora il 'si' assume una funzione
+impersonale, ma non passiva.
+Quindi si riferisce a “la gente” in generale
+ed è usato solo con il verbo alla terza persona
+singolare, ma non c'è la connotazione passiva.
+Vediamo come sempre degli esempi.
+“In questo ristorante si mangia bene”.
+“Mangiare” è un verbo transitivo, ma
+in questo caso non c'è l'oggetto.
+Allora, posso utilizzare il 'si' nella funzione
+impersonale, cioè mi riferisco a “la gente”
+in generale.
+Quindi, “in questo ristorante la gente in
+generale mangia bene”.
+Stessa cosa se il verbo è intransitivo, come
+“viaggiare”.
+“Ormai si viaggia sempre più spesso in
+aereo”.
+Non c'è una connotazione passiva, ma semplicemente
+una connotazione impersonale.
+Cioè, non c'è una vera e propria persona,
+perché mi sto riferendo a “la gente”
+in generale.
+Spero proprio che sia tutto chiaro!
+Però, come sempre, se avete dei dubbi commentate
+e noi vi risponderemo appena possibile!
+Chiaramente, se volete verificare di aver
+realmente capito questa lezione, andate sul
+nostro sito e fate tutti gli esercizi.
+Se il video vi è piaciuto e vi va di lasciarci
+un “mi piace” ve ne saremmo grati!
+E... iscrivetevi al nostro canale se non lo
+avete già fatto.
+Io vi aspetto alla prossima lezione!
+Ciao ciao!
