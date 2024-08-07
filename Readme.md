@@ -6,15 +6,23 @@
 - `convert_vtt_into_text.sh`
 	- converts vtt into txt files 
 		- know issues:
-			- sometimes files contain rubbish text - currently it's kept there as it is
+			- sometimes files contain rubbish text - currently it's kept there as it is unusual error
 			```text
 			Ciao<00:00:00.280><c> a</c><00:00:00.399><c> tutti</c><00:00:00.599><c> e</c><00:00:00.960><c> bentornati</c><00:00:01.360><c> su</c><00:00:02.000><c> lamo</c><00:00:02.639><c> sei</c><00:00:03.000><c> in</c>
-```
-	- Improvements:
-		- make it to download as playlist into a folder with vtt subtitles
-		- then have a script which would process those vtt files to txt
+			```
+	- **Improvements**:
 		- then make Python script to upload folder into ReadLang
+- usage:
+```bash
+# Download vtt files:
+./transcipts_for_LearnAmo.txt it <url>
 
+# convert vtt to txt
+for n in $ls LearnAmo_raw/*.vtt; do echo $n; ./convert_vtt_into_text.sh "$n" ; done
+
+# Then move all txt files into dedicated folder:
+mv *.txt LearnAmo_txt/
+```
 # Italian
 ## Italian / Simple Italian News
 - [v] Downloaded all text and mp3 files since 2018 till 2024-07-01
